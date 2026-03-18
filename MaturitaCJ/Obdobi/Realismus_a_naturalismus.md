@@ -42,7 +42,7 @@ V **Čechách** se realismus prosadil v 80.–90. letech 19. stol. Bratři Mršt
 - **Honoré de Balzac** (1799–1850) – *Lidská komedie* (cyklus románů o francouzské společnosti)
 - **Gustave Flaubert** (1821–1880) – *Paní Bovaryová* (souzena za obscénnost)
 - **Lev Nikolajevič Tolstoj** (1828–1910) – *Vojna a mír*, *Anna Karenina*
-- **Fjodor Michajlovič Dostojevský** (1821–1881) – *Zločin a trest*, *Bratři Karamazovi*
+- **[[SouvisejiciAutori/Fjodor_Dostojevskij|Fjodor Michajlovič Dostojevskij]]** (1821–1881) – *Zločin a trest*, *Bratři Karamazovi*
 - **Charles Dickens** (1812–1870) – *Oliver Twist*, *David Copperfield*
 - **Jane Austen** (1775–1817) – *Pýcha a předsudek* (raný realismus, přelom se sentimentalismem)
 - **Arthur Conan Doyle** (1859–1930) – detektivní próza
@@ -53,7 +53,7 @@ V **Čechách** se realismus prosadil v 80.–90. letech 19. stol. Bratři Mršt
 
 **Česká:**
 - **Bratři Mrštíkové** – *Maryša*
-- **Alois Jirásek** – historické romány
+- **[[SouvisejiciAutori/Alois_Jirasek|Alois Jirásek]]** – historické romány
 - **Ignát Herrmann** – pražské prózy
 
 ## Vliv na pozdější literaturu

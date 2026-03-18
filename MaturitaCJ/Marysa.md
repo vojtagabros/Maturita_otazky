@@ -124,3 +124,6 @@ Hra nekončí soudem ani vysvětlením – jen tímto přiznáním, bez dramatic
 ## Viz také
 - [[Kytice]] – podobné téma ženy v pasti, jiný přístup
 - [[Obdobi/Realismus_a_naturalismus]]
+- [[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]] – zachycení českého/moravského venkova
+- [[SouvisejiciAutori/Fjodor_Dostojevskij|Fjodor Dostojevskij]] – ruský realismus, který Vilém Mrštík překládal
+- [[SouvisejiciAutori/Alois_Jirasek|Alois Jirásek]] – současník v realistickém období

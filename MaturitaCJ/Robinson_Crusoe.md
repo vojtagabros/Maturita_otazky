@@ -117,3 +117,5 @@ Nakonec přijde loď britských pirátů s vzbouřenými námořníky. Robinson 
 
 ## Viz také
 - [[Obdobi/Osvicenstvi]]
+- [[Hobit]] – dobrodružný román s motivem cesty tam a zase zpátky
+- [[SouvisejiciAutori/Homer|Homér]] – Odysseia jako praobraz příběhu o putování a návratu

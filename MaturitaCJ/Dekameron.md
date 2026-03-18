@@ -128,3 +128,5 @@ Dekameron je Boccacciovo vrcholné dílo a jedinou jeho prací, která přežila
 ## Viz také
 - [[Hamlet]] – další renesanční dílo
 - [[Obdobi/Renesance_a_humanismus]]
+- [[SouvisejiciAutori/Homer|Homér]] – antická tradice, na kterou renesance navazuje
+- [[Recke_baje_a_povesti]] – antická mytologie jako základ

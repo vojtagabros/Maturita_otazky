@@ -41,16 +41,16 @@ Romantický hrdina je jeden z klíčových pojmů. Typické rysy:
 - **Lord Byron** (1788–1824) – *Childe Harold*, *Manfréd*; sám byl "romantickým hrdinou"
 - **Percy Bysshe Shelley** – *Odpoutaný Prometheus*
 - **Victor Hugo** (1802–1885) – *Bídníci*, *Chrám Matky Boží v Paříži*
-- **Alexander Puškin** (1799–1837) – *Evžen Oněgin*
+- **[[SouvisejiciAutori/Alexandr_Puskin|Alexandr Puškin]]** (1799–1837) – *Evžen Oněgin*
 - **Adam Mickiewicz** – *Pan Tadeáš*
 - **E. T. A. Hoffmann** – fantastické novely
 - **Edgar Allan Poe** (1809–1849) – hororové a detektivní povídky
 - **Walter Scott** – historický román
 
 **Česká (národní obrození):**
-- **Karel Hynek Mácha** (1810–1836) – *Máj* (vrchol českého romantismu)
-- **Karel Jaromír Erben** (1811–1870) – *Kytice*
-- **Božena Němcová** (1820–1862) – *Babička* (přelom romantismus/realismus)
+- **[[SouvisejiciAutori/Karel_Hynek_Macha|Karel Hynek Mácha]]** (1810–1836) – *Máj* (vrchol českého romantismu)
+- **Karel Jaromír Erben** (1811–1870) – [[Kytice]]
+- **[[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]]** (1820–1862) – *Babička* (přelom romantismus/realismus)
 
 ## Vliv na pozdější literaturu
 Romantismus ovlivnil symbolismus, dekadenci i moderní literaturu. Romantický hrdina je archetyp přežívající v literatuře i popkultuře dodnes. Zájem o folklór a národní mytologii oživil kulturní identity celé Evropy.
@@ -63,3 +63,6 @@ Romantismus ovlivnil symbolismus, dekadenci i moderní literaturu. Romantický h
 
 ## Viz také
 - [[Narodni_obrozeni]] – český kontext romantismu
+- [[SouvisejiciAutori/Karel_Hynek_Macha|Karel Hynek Mácha]] – vrcholný český romantik
+- [[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]] – přelom romantismu a realismu
+- [[SouvisejiciAutori/Alexandr_Puskin|Alexandr Puškin]] – zakladatel ruské romantické tradice

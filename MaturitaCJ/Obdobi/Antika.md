@@ -34,7 +34,7 @@ Antická kultura položila základ celé evropské civilizaci: demokracie (Athé
 - **Deus ex machina** – bůh sestoupí z jeviště a vyřeší situaci (doslova stroj boha)
 
 ## Hlavní představitelé
-- **Homér** – Ilias a Odysseia (8. stol. př. n. l.)
+- **[[SouvisejiciAutori/Homer|Homér]]** – Ilias a Odysseia (8. stol. př. n. l.)
 - **Aischylos, Sofoklés, Euripidés** – tragédie (Oidipus, Elektra, Médea)
 - **Aristofanés** – komedie (satirická dramata)
 - **Sapfó** – milostná lyrika

@@ -128,3 +128,4 @@ Claudius posílá Hamleta do Anglie s tajným příkazem k jeho popravě. Hamlet
 ## Viz také
 - [[Dekameron]] – souběžné renesanční dílo
 - [[Obdobi/Renesance_a_humanismus]]
+- [[SouvisejiciAutori/Alexandr_Puskin|Alexandr Puškin]] – obdivoval Shakespeara, navazoval v dramatické tvorbě

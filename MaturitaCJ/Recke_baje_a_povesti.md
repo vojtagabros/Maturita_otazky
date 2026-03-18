@@ -110,7 +110,7 @@ Er-forma, vševědoucí vypravěč s lehce didaktickým tónem (Petiška mluví 
 ## Literární a historický kontext
 
 ### Antická mytologie jako základ evropské kultury
-Řecká mytologie vznikala v průběhu staletí jako **orální tradice** – pěvci (*aedi*) recitovali příběhy z paměti. Homér (8. stol. př. n. l.) tyto příběhy zachytil v eposech *Ilias* a *Odysseia*. Hesiodos (8.–7. stol. př. n. l.) systematizoval theogonii (původ bohů) ve svých básních. Dramatikové 5. stol. př. n. l. (Aischylos, Sofoklés, Euripidés) zpracovávali mytologické příběhy v tragédiích. Ovidius (43 př. n. l. – 17 n. l.) v *Metamorfózách* shrnul stovky příběhů o proměnách.
+Řecká mytologie vznikala v průběhu staletí jako **orální tradice** – pěvci (*aedi*) recitovali příběhy z paměti. [[SouvisejiciAutori/Homer|Homér]] (8. stol. př. n. l.) tyto příběhy zachytil v eposech *Ilias* a *Odysseia*. Hesiodos (8.–7. stol. př. n. l.) systematizoval theogonii (původ bohů) ve svých básních. Dramatikové 5. stol. př. n. l. (Aischylos, Sofoklés, Euripidés) zpracovávali mytologické příběhy v tragédiích. Ovidius (43 př. n. l. – 17 n. l.) v *Metamorfózách* shrnul stovky příběhů o proměnách.
 
 Mytologie nebyla pro Řeky "pohádky" – byl to jejich **skutečný náboženský a kosmologický světonázor**. Bohové zasahovali do lidského života, věštírny (Delfská věštírna Apollóna) ovlivňovaly politická rozhodnutí. Chrám jako centrum kultury, náboženství a politiky byl neodmyslitelnou součástí polis (města-státu).
 
@@ -141,3 +141,6 @@ Petišk byl systematickým retellererem světových mytologií. Vedle řecké my
 
 ## Viz také
 - [[Obdobi/Antika]]
+- [[SouvisejiciAutori/Homer|Homér]] – autor Íliady a Odysseie
+- [[SouvisejiciAutori/Alois_Jirasek|Alois Jirásek]] – Staré pověsti české jako český ekvivalent
+- [[Dekameron]] – renesanční navázání na antickou tradici

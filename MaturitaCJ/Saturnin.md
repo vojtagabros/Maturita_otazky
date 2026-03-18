@@ -100,8 +100,8 @@ Paradoxně: právě tato "apolitičnost" umožnila Satirninovi vyjít a přeží
 
 ### Česká humoristická tradice
 Saturnin navazuje na bohatou českou tradici:
-- **Jaroslav Hašek** – *Osudy dobrého vojáka Švejka*; malý člověk přežívá lstí
-- **Karel Čapek** – humor a humanismus
+- **[[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]]** – *Osudy dobrého vojáka Švejka*; malý člověk přežívá lstí
+- **[[RUR|Karel Čapek]]** – humor a humanismus
 - **Eduard Bass** – *Klapzubova jedenáctka*; humoristická próza pro rodinu
 - **Jan Weiss** – fantastická próza s humoristickými prvky
 
@@ -136,3 +136,5 @@ Román nemá dramatický oblouk – je to série scén propojena postavami a jej
 ## Viz také
 - [[Vysetrovani_ztraty_tridni_knihy]] – česká humoristická tradice
 - [[Bajecna_leta_pod_psa]] – satira na českou mentalitu
+- [[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]] – česká humoristická tradice, Švejk
+- [[SouvisejiciAutori/Bohumil_Hrabal|Bohumil Hrabal]] – další dědic českého humoru

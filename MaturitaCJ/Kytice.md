@@ -11,7 +11,7 @@ tags: [maturita, literatura, romantismus, narodni-obrozeni, lyrika, balada]
 ---
 
 ## O autorovi
-**Karel Jaromír Erben** (1811–1870) byl český básník, archivist, historik a folklorista. Studoval práva a filozofii, celý profesní život pracoval jako archivář a písař v Praze (nakonec se stal prvním archivátem hlavního města Prahy). Byl kolega a přítel Boženy Němcové a Františka Palackého.
+**Karel Jaromír Erben** (1811–1870) byl český básník, archivist, historik a folklorista. Studoval práva a filozofii, celý profesní život pracoval jako archivář a písař v Praze (nakonec se stal prvním archivátem hlavního města Prahy). Byl kolega a přítel [[SouvisejiciAutori/Bozena_Nemcova|Boženy Němcové]] a Františka Palackého.
 
 Erbenovým celoživotním dílem bylo sbírání a vydávání českého folkóru: **Prostonárodní české písně a říkadla** (4 svazky, 1842–1845) – rozsáhlá sbírka lidových písní. Kytice je vrchol jeho básnické tvorby a zároveň umělecká syntéza všeho, co ze sbírání folklóru poznal o duchu české lidové kultury.
 
@@ -130,7 +130,7 @@ Erbenovský básník Viktor Šlajchrt označil Erbenův svět jako "svět, kde z
 Erbenova balada navazuje na evropskou tradici – **skotsko-anglická balada** (Percy's Reliques, 1765), němečtí romantici (Bürgerova *Lenora*, 1773 – přímý vzor pro *Svatební košile*). Ale Erben je vyloženě **česky zakořeněn** – krajina, motivy, démoni jsou specificky česko-slovanské (vodník, rusalky, polednice).
 
 ### Adaptace a vliv
-Kytice je po Máchově *Máji* nejvýznamnější básnická sbírka v české literatuře. Byla:
+Kytice je po [[SouvisejiciAutori/Karel_Hynek_Macha|Máchově]] *Máji* nejvýznamnější básnická sbírka v české literatuře. Byla:
 - **Zhudebněna** (Dvořákova symfonická báseň *Zlatý kolovrat*, *Vodník*, *Polednice* atd. – cyklus 4 básní, 1896–1897)
 - **Zfilmována** (F. A. Brabec, animovaný film Kytice 2000, hraný film 2000)
 - **Dramatizována** mnohokrát
@@ -158,3 +158,7 @@ Kytice je Erbenovo jediné básnické dílo a absolutní vrchol jeho tvorby. Ost
 ## Viz také
 - [[Obdobi/Romantismus]]
 - [[Obdobi/Narodni_obrozeni]]
+- [[SouvisejiciAutori/Karel_Hynek_Macha|Karel Hynek Mácha]] – vrchol českého romantismu
+- [[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]] – kolegyně z národního obrození
+- [[SouvisejiciAutori/Alexandr_Puskin|Alexandr Puškin]] – soudobý romantik v ruské literatuře
+- [[Marysa]] – podobné téma ženy v pasti, jiný přístup

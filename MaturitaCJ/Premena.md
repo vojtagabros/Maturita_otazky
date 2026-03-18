@@ -154,3 +154,6 @@ Gréta řekne otci: "Musíme se toho zbavit." Řehoř to slyší, vrátí se do 
 - [[RUR]] – odcizení a dehumanizace z jiného úhlu
 - [[1984]] – systém drtí jedince
 - [[Obdobi/Modernismus]]
+- [[SouvisejiciAutori/Vaclav_Havel|Václav Havel]] – kafkovská absurdita v českém dramatu
+- [[SouvisejiciAutori/Milan_Kundera|Milan Kundera]] – Kafku považoval za klíčového pro střední Evropu
+- [[SouvisejiciAutori/Fjodor_Dostojevskij|Fjodor Dostojevskij]] – předchůdce existenciální úzkosti

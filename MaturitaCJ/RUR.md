@@ -150,3 +150,6 @@ Roboti zjistí, že bez receptu se nemohou množit a vyhynou. Prosí Alquista, a
 - [[Premena]] – jiné téma odcizení a dehumanizace
 - [[1984]] – dystopická tradice
 - [[Obdobi/Mezivalecna_literatura]]
+- [[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]] – klíčový současník české meziválečné literatury
+- [[SouvisejiciAutori/Vitezslav_Nezval|Vítězslav Nezval]] – česká avantgarda meziválečného období
+- [[SouvisejiciAutori/Jaroslav_Seifert|Jaroslav Seifert]] – další klíčová postava meziválečné české kultury

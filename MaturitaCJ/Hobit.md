@@ -136,3 +136,5 @@ Bilbo se vrátí domů – bez velké části pokladu, ale s Prstenem a dobrodru
 ## Viz také
 - [[Obdobi/Fantasy]]
 - [[Obdobi/Mezivalecna_literatura]]
+- [[SouvisejiciAutori/Homer|Homér]] – zakladatel epické tradice, na kterou Tolkien navazuje
+- [[SouvisejiciAutori/Erich_Maria_Remarque|Erich Maria Remarque]] – oba vojáci 1. sv. války, rozdílné zpracování

@@ -33,7 +33,7 @@ Mezinárodně: **Velká hospodářská krize** (1929) otřásla demokraciemi a o
 **Světová:**
 - **Ernest Hemingway** (1899–1961) – *Komu zvoní hrana*, *Stařec a moře*, *Sbohem, armádo*
 - **F. Scott Fitzgerald** (1896–1940) – *Velký Gatsby*
-- **Erich Maria Remarque** (1898–1970) – *Na západní frontě klid*
+- **[[SouvisejiciAutori/Erich_Maria_Remarque|Erich Maria Remarque]]** (1898–1970) – *Na západní frontě klid*
 - **Bertolt Brecht** (1898–1956) – epické divadlo, *Matka Kuráž*
 - **Aldous Huxley** (1894–1963) – *Brave New World* (dystopie, 1932)
 - **J. R. R. Tolkien** (1892–1973) – *Hobit* (1937)
@@ -42,9 +42,9 @@ Mezinárodně: **Velká hospodářská krize** (1929) otřásla demokraciemi a o
 **Česká:**
 - **Karel Čapek** (1890–1938) – *R.U.R.*, *Válka s mloky*, *Bílá nemoc*, *Matka*, detektivní próza
 - **Josef Čapek** (1887–1945) – výtvarník, spoluautor myšlenky robotů, zahynul v koncentračním táboře
-- **Jaroslav Hašek** (1883–1923) – *Osudy dobrého vojáka Švejka*
+- **[[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]]** (1883–1923) – *Osudy dobrého vojáka Švejka*
 - **Vladislav Vančura** (1891–1942) – *Rozmarné léto*, popraven nacisty
-- **Vítězslav Nezval** (1900–1958) – poetismus, surrealismus
+- **[[SouvisejiciAutori/Vitezslav_Nezval|Vítězslav Nezval]]** (1900–1958) – poetismus, surrealismus
 - **Jiří Wolker** (1900–1924) – proletářská lyrika
 
 ## R.U.R. a slovo "robot" – klíčový fakt

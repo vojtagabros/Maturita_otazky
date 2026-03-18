@@ -135,3 +135,5 @@ Baudelaire přeložil do francouzštiny **všechna Poeova prozaická díla** (18
 ## Viz také
 - [[Jama_a_kyvadlo]] – Poe, jehož Baudelaire překládal
 - [[Obdobi/Symbolismus_a_dekadence]]
+- [[SouvisejiciAutori/Jaroslav_Seifert|Jaroslav Seifert]] – navazoval na symbolistickou tradici
+- [[SouvisejiciAutori/Vitezslav_Nezval|Vítězslav Nezval]] – český dědic Baudelairovy avantgardy

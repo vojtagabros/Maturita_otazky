@@ -136,3 +136,4 @@ Pachatel je **Stapleton** – vzdálený příbuzný Baskervillů, který chce p
 ## Viz také
 - [[Jama_a_kyvadlo]] – Poe jako předchůdce detektivního žánru
 - [[Obdobi/Realismus_a_naturalismus]]
+- [[SouvisejiciAutori/Fjodor_Dostojevskij|Fjodor Dostojevskij]] – psychologický aspekt detektivní prózy

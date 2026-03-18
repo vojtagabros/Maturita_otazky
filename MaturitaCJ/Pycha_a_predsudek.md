@@ -135,3 +135,6 @@ Darcy podruhé navrhne sňatek. Elizabeth přijme. Jane se provdá za Bingleye.
 ## Viz také
 - [[Obdobi/Realismus_a_naturalismus]]
 - [[Pes_baskervillsky]] – další anglická realistická próza
+- [[SouvisejiciAutori/Charlotte_Bronteova|Charlotte Brontëová]] – další klíčová autorka anglického románu
+- [[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]] – průkopnice ženské prózy v české literatuře
+- [[SouvisejiciAutori/Fjodor_Dostojevskij|Fjodor Dostojevskij]] – soudobý realista s odlišným přístupem

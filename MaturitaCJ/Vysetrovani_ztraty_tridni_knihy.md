@@ -106,8 +106,8 @@ V 70.–80. letech normalizace bylo Divadlo Jára Cimrmana jednou z mála svobod
 
 ### Cimrmanovský humor a česká literární tradice
 Svěrák a Smoljak navazují na:
-- **Jaroslav Hašek** – *Švejk*; malý člověk přežívající systém naivitou a lstí
-- **Karel Čapek** – humor a humanismus
+- **[[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]]** – *Švejk*; malý člověk přežívající systém naivitou a lstí
+- **[[RUR|Karel Čapek]]** – humor a humanismus
 - **František Kožík** – kabaretní tradice
 - **Kabaret a varieté** – vídeňská a pražská tradice přelomu 19./20. stol.
 
@@ -139,3 +139,5 @@ Nakonec se třídní kniha najde na místě, kde byla celou dobu – ale nikoho 
 - [[Saturnin]] – česká humoristická tradice
 - [[Bajecna_leta_pod_psa]] – satira na českou realitu
 - [[RUR]] – Karel Čapek a česká satirická tradice
+- [[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]] – Švejk jako předchůdce cimrmanovského humoru
+- [[SouvisejiciAutori/Vaclav_Havel|Václav Havel]] – absurdní divadlo v české tradici

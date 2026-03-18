@@ -87,10 +87,10 @@ Charakteristiky normalizace:
 - **"Výměna elit"** – disidenti a reformní komunisté byli vyhozeni ze zaměstnání, jejich děti nesměly studovat
 - **"Reálný socialismus"** – místo utopické vize socialismus jako praktický systém, zajišťující materiální komfort výměnou za politickou pasivitu
 - **Konzumismus** – vláda nechala lidi "žít" (mít chatu, auto, barevnou TV) výměnou za politické mlčení
-- **Cenzura** – knihy, filmy, hudba byly cenzorovány; disidenti jako Havel, Vaculík vydávali samizdat
+- **Cenzura** – knihy, filmy, hudba byly cenzorovány; disidenti jako [[SouvisejiciAutori/Vaclav_Havel|Havel]], Vaculík vydávali samizdat
 - **"Malý člověk"** – ideál normalizace: neangažuj se, pracuj, koupi si chatu, buď v klidu
 
-Viewegh toto prostředí zachytil s přesností a humorem. *Báječná léta pod psa* je vedle Hrabalových *Postřižin* a Škvoreckého *Zbabělci* jedním z klíčových literárních zpracování české doby.
+Viewegh toto prostředí zachytil s přesností a humorem. *Báječná léta pod psa* je vedle [[SouvisejiciAutori/Bohumil_Hrabal|Hrabalových]] *Postřižin* a [[SouvisejiciAutori/Josef_Skvorecky|Škvoreckého]] *Zbabělců* jedním z klíčových literárních zpracování české doby.
 
 ### Význam pro českou literaturu po roce 1989
 *Báječná léta pod psa* vyšla v roce 1992 – jen 3 roky po pádu komunismu. Byla jednou z prvních próz, která otevřeně a se smíchem zpracovala normalizaci. Čtenáři poznávali svůj vlastní zažitý svět – a smáli se mu. Tato kombinace nostalgie a satiry byla silná.
@@ -125,3 +125,6 @@ Román je série scéna ze života – škola, sousedé, rodinné hádky, dovole
 - [[Vysetrovani_ztraty_tridni_knihy]] – humoristická česká literatura stejné doby
 - [[Saturnin]] – česká humoristická próza
 - [[Obdobi/Postmodernismus]]
+- [[SouvisejiciAutori/Bohumil_Hrabal|Bohumil Hrabal]] – vzor pro českou rodinnou prózu
+- [[SouvisejiciAutori/Josef_Skvorecky|Josef Škvorecký]] – vzor české prózy bez patosu
+- [[SouvisejiciAutori/Milan_Kundera|Milan Kundera]] – další klíčový autor české poválečné prózy

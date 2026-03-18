@@ -42,8 +42,8 @@ Po Bílé hoře prchla česká protestantská šlechta a vzdělanci do exilu, je
 - **Václav Matěj Kramerius** – noviny *Krameriusovy c. k. vlastenské noviny*
 - **František Ladislav Čelakovský** – *Ohlas písní ruských*, *Ohlas písní českých*
 - **Karel Jaromír Erben** (1811–1870) – *Kytice*, archiv českého folklóru
-- **Božena Němcová** (1820–1862) – *Babička*, sbírky pohádek
-- **Karel Hynek Mácha** (1810–1836) – *Máj* (vrchol romantismu, přesahuje obrození)
+- **[[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]]** (1820–1862) – *Babička*, sbírky pohádek
+- **[[SouvisejiciAutori/Karel_Hynek_Macha|Karel Hynek Mácha]]** (1810–1836) – *Máj* (vrchol romantismu, přesahuje obrození)
 - **Josef Kajetán Tyl** – divadlo, *Kde domov můj?* (pozdější státní hymna)
 - **Jan Neruda** (1834–1891) – *Povídky malostranské* (navazuje na obrození, přechod k realismu)
 

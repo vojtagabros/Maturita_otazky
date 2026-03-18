@@ -41,7 +41,7 @@ Postmodernismus vznikl jako reakce na **modernismus** a na zklamání z "velkýc
 **Světová:**
 - **Haruki Murakami** (nar. 1949) – *Norské dřevo*, *Kafka na pobřeží*, *1Q84*
 - **Umberto Eco** (1932–2016) – *Jméno růže*, *Foucaultovo kyvadlo*
-- **Milan Kundera** (1929–2023) – *Nesnesitelná lehkost bytí*, *Žert* – Čech píšící francouzsky
+- **[[SouvisejiciAutori/Milan_Kundera|Milan Kundera]]** (1929–2023) – *Nesnesitelná lehkost bytí*, *Žert* – Čech píšící francouzsky
 - **Salman Rushdie** (nar. 1947) – *Satanské verše*
 - **Don DeLillo**, **Thomas Pynchon** – americký postmodernismus
 - **Gabriel García Márquez** (1927–2014) – *Sto roků samoty* (magický realismus)
