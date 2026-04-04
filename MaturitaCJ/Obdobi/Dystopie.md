@@ -55,5 +55,5 @@ Orwellův slovník pronikl do politického diskurzu celého světa. "Orwelliáns
 - [[1984]] – George Orwell
 
 ## Viz také
-- [[Modernismus]] – existenciální kořeny dystopie
-- [[Mezivalecna_literatura]] – meziválečné dystopické předchůdce
+- [[Obdobi/Modernismus|Modernismus]] – existenciální kořeny dystopie
+- [[Obdobi/Mezivalecna_literatura|Meziválečná literatura]] – meziválečné dystopické předchůdce

@@ -63,3 +63,11 @@ Dr. Mortimer přijde na Baker Street s legendou o kletbě rodu Baskervillů: sir
 Holmes posílá Watsona s Henrym do Baskerville Hall. Watson opisuje situaci v dopisech. Na vřesovišti se toulá záhadný uprchlík, Barrymore vysílá tajné signály. Holmes je tajně přítomen a sám vyšetřuje.
 
 Pachatel je Stapleton – vzdálený příbuzný Baskervillů, který chce panství zdědit. Choval obrovského mastifa natřeného fosforescenčním roztokem. Holmes nalíčí past: sir Henry jako návnada, pes je zastřelen, Stapleton zahyne v bažinách.
+
+---
+
+## Viz také
+- [[Obdobi/Realismus_a_naturalismus|Realismus a naturalismus]] – viktoriánská próza 19. století
+- [[Jama_a_kyvadlo|Jáma a kyvadlo]] – Poe jako zakladatel detektivního žánru
+- [[Vysetrovani_ztraty_tridni_knihy|Vyšetřování ztráty třídní knihy]] – detektivní žánr v české literatuře
+- [[Robinson_Crusoe|Robinson Crusoe]] – anglická dobrodružná próza

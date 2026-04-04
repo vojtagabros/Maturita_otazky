@@ -7,7 +7,7 @@ Realismus: přibližně 1830–1880 | Naturalismus: přibližně 1860–1900
 ---
 
 ## Historický kontext
-Realismus nastoupil po romantismu jako reakce na jeho idealizaci a útěky od skutečnosti. Průmyslová revoluce přetvořila společnost – vznikla moderní města, proletariát, střední třída a ostré sociální kontrasty. Věda přinášela nové způsoby pohledu na svět.
+Realismus nastoupil po [[Obdobi/Romantismus|romantismu]] jako reakce na jeho idealizaci a útěky od skutečnosti. Průmyslová revoluce přetvořila společnost – vznikla moderní města, proletariát, střední třída a ostré sociální kontrasty. Věda přinášela nové způsoby pohledu na svět.
 
 **Klíčové myšlenkové vlivy:**
 - **Darwinova evoluční teorie** (1859) – člověk je součástí přírody, ovlivněn biologickými silami
@@ -46,9 +46,11 @@ V **Čechách** se realismus prosadil v 80.–90. letech 19. stol. Bratři Mršt
 - **[[SouvisejiciAutori/Lev_Nikolajevic_Tolstoj|Lev Nikolajevič Tolstoj]]** (1828–1910) – *Vojna a mír*, *Anna Karenina*
 - **[[SouvisejiciAutori/Fjodor_Dostojevskij|Fjodor Michajlovič Dostojevskij]]** (1821–1881) – *Zločin a trest*, *Bratři Karamazovi*
 - **[[SouvisejiciAutori/Nikolaj_Vasiljevic_Gogol|Nikolaj Vasiljevič Gogol]]** (1809–1852) – *Revizor*, *Mrtvé duše* (satirický realismus)
+- **[[SouvisejiciAutori/Alexandr_Puskin|Alexandr Puškin]]** (1799–1837) – *Evžen Oněgin* (přechod [[Obdobi/Romantismus|romantismus]]/realismus)
 - **Charles Dickens** (1812–1870) – *Oliver Twist*, *David Copperfield*
 - **[[SouvisejiciAutori/Mark_Twain|Mark Twain]]** (1835–1910) – *Dobrodružství Huckleberryho Finna* (americký realismus)
-- **Jane Austen** (1775–1817) – *Pýcha a předsudek* (raný realismus, přelom se sentimentalismem)
+- **[[SouvisejiciAutori/Charlotte_Bronteova|Charlotte Brontëová]]** (1816–1855) – *Jana Eyrová* (realismus s romantickými prvky)
+- **Jane Austen** (1775–1817) – *[[Pycha_a_predsudek|Pýcha a předsudek]]* (raný realismus, přelom se sentimentalismem)
 - **Arthur Conan Doyle** (1859–1930) – detektivní próza
 
 **Naturalisté:**
@@ -58,6 +60,7 @@ V **Čechách** se realismus prosadil v 80.–90. letech 19. stol. Bratři Mršt
 **Česká:**
 - **Bratři Mrštíkové** – *Maryša*
 - **[[SouvisejiciAutori/Alois_Jirasek|Alois Jirásek]]** – historické romány
+- **[[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]]** – přechodné dílo (romantismus/realismus)
 - **Ignát Herrmann** – pražské prózy
 
 ## Vliv na pozdější literaturu

@@ -11,7 +11,7 @@ Antika označuje civilizaci starověkého Řecka a Říma. Řecká kultura dosá
 
 S výboji **Alexandra Velikého** (4. stol. př. n. l.) se řecká kultura rozšířila po celém Blízkém východě – toto období se nazývá **helénismus**. Řím pak navázal na řecké dědictví, přeložil ho do latiny a rozšířil po celé Evropě.
 
-Zánik Západořímské říše (476 n. l.) a nástup středověku přerušil antickou tradici. Ta byla znovuobjevena až v **renesanci** (14.–16. stol.), kdy humanisté prohlásili antiku za nedostižný vzor.
+Zánik Západořímské říše (476 n. l.) a nástup středověku přerušil antickou tradici. Ta byla znovuobjevena až v **[[Obdobi/Renesance_a_humanismus|renesanci]]** (14.–16. stol.), kdy humanisté prohlásili antiku za nedostižný vzor.
 
 Antická kultura položila základ celé evropské civilizaci: demokracie (Athény), republika a právo (Řím), filozofie (Sokrates, Platón, Aristoteles), drama, epika, lyrika, rétorika i věda.
 
@@ -44,7 +44,7 @@ Antická kultura položila základ celé evropské civilizaci: demokracie (Athé
 - **Cicero** – řečnická próza
 
 ## Vliv na pozdější literaturu
-Antická mytologie a žánry ovlivnily všechna následující literární období – renesanci, klasicismus, romantismus i moderní dobu. Příběhy o Odysseovi, Oidipovi, Orfeovi nebo Narcisovi jsou živé dodnes. Pojmy jako *tragédie*, *komedie*, *epos*, *lyrika*, *satira* jsou antického původu.
+Antická mytologie a žánry ovlivnily všechna následující literární období -- [[Obdobi/Renesance_a_humanismus|renesanci]], klasicismus, [[Obdobi/Romantismus|romantismus]] i moderní dobu. Příběhy o Odysseovi, Oidipovi, Orfeovi nebo Narcisovi jsou živé dodnes. Pojmy jako *tragédie*, *komedie*, *epos*, *lyrika*, *satira* jsou antického původu.
 
 ---
 

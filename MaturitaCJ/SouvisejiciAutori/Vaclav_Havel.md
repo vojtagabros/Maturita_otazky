@@ -3,7 +3,7 @@ tags: [maturita, literatura, ceska-literatura, drama, absurdni-divadlo]
 ---
 
 # Václav Havel
-**Období:** Česká poválečná literatura / absurdní drama
+**Období:** Česká poválečná literatura / [[Obdobi/Postmodernismus|postmodernismus]] / absurdní drama
 **Roky života:** 1936–2011
 
 ---

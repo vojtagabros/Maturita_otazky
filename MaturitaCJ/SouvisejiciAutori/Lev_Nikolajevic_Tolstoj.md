@@ -9,7 +9,7 @@ tags: [maturita, literatura, realismus, svetova-literatura, proza]
 ---
 
 ## O autorovi
-Tolstoj je považován za jednoho z **nejvýznamnějších světových autorů** vůbec a za vrcholného představitele ruského realismu. Pocházel z aristokratické rodiny, žil na svém statku Jasná Poljana, kde psal svá velká díla.
+Tolstoj je považován za jednoho z **nejvýznamnějších světových autorů** vůbec a za vrcholného představitele ruského [[Obdobi/Realismus_a_naturalismus|realismu]]. Pocházel z aristokratické rodiny, žil na svém statku Jasná Poljana, kde psal svá velká díla.
 
 V pozdějším věku prošel hlubokou duchovní krizí -- odmítl aristokratický život, stal se vegetariánem, propagoval **nenásilí a prostý život**. Jeho myšlenky ovlivnily Mahátmu Gándhího. Známý pro **realistický popis života a hluboké morální a etické otázky** ve svém díle.
 

@@ -3,7 +3,7 @@ tags: [maturita, literatura, ceska-literatura, proza, postmodernismus]
 ---
 
 # Bohumil Hrabal
-**Období:** Česká poválečná próza (50.–90. léta)
+**Období:** Česká poválečná próza / [[Obdobi/Postmodernismus|postmodernismus]] (50.–90. léta)
 **Roky života:** 1914–1997
 
 ---

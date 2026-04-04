@@ -43,7 +43,7 @@ Jazykové hříčky -- homonyma, parafráze, neočekávané asociace. Parodie ú
 ---
 
 ## Literární a historický kontext
-Česká humoristická tradice, navazuje na Haška (Švejk) a kabaret; zároveň absurdní divadlo (Ionesco, Beckett) v české podobě. Divadlo Jára Cimrmana vzniklo v roce 1967, v době Pražského jara. Po normalizaci přežilo díky "nevinnosti" humoru, ale bylo ve skutečnosti subverzivní -- satira na byrokracii a autoritářství. Další autoři: Jaroslav Hašek, Karel Čapek, Václav Havel.
+Česká humoristická tradice, navazuje na [[SouvisejiciAutori/Jaroslav_Hasek|Haška]] (Švejk) a kabaret; zároveň absurdní divadlo (Ionesco, Beckett) v české podobě. Divadlo Jára Cimrmana vzniklo v roce 1967, v době Pražského jara. Po normalizaci přežilo díky "nevinnosti" humoru, ale bylo ve skutečnosti subverzivní -- satira na byrokracii a autoritářství. Další autoři: Jaroslav Hašek, [[SouvisejiciAutori/Karel_Capek|Karel Čapek]], [[SouvisejiciAutori/Vaclav_Havel|Václav Havel]].
 
 ## Kontext vzhledem k dílu autora
 Zdeněk Svěrák (*1936) -- herec, scenárista, textař; scénář k oscarovému filmu Kolja (1996). Ladislav Smoljak (1931--2010) -- režisér a hlavní režisér Divadla Jára Cimrmana. Společně napsali většinu cimrmanovských her: Akt, Dobytí severního pólu, Cimrman v říši hudby, Švestka, Blaník. Svěrák je také scenáristou filmů Pelíšky a Kolja.
@@ -54,3 +54,12 @@ Zdeněk Svěrák (*1936) -- herec, scenárista, textař; scénář k oscarovému
 **Přednáška:** Dva "cimrmanologové" přednášejí o Cimrmanově působení jako učitele a předvedou nalezené artefakty.
 
 **Hra:** Na venkovské škole zmizí třídní kniha. Přijede vyšetřovatel z okresu a zahájí formální vyšetřování -- výslechy učitelů, žáků, správce. Situace se rozbují do absurdního procesu, každý svědek přináší novou verzi událostí. Byrokracie se točí sama kolem sebe. Nakonec se třídní kniha najde na místě, kde byla celou dobu -- ale nikoho to nezajímá, protože proces se stal důležitějším než výsledek.
+
+---
+
+## Viz také
+- [[SouvisejiciAutori/Vaclav_Havel|Václav Havel]] -- absurdní drama v české tradici
+- [[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]] -- český humor a satira
+- [[Saturnin]] -- česká humoristická próza
+- [[Marysa]] -- české drama
+- [[RUR|R.U.R.]] -- české drama meziválečného období

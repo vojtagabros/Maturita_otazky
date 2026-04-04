@@ -40,7 +40,7 @@ Modernismus byl literární a umělecká odpověď na krizi tradiční civilizac
 - Angažovaná literatura
 
 ## Hlavní představitelé
-- **Franz Kafka** (1883–1924) – *Proměna*, *Proces*, *Zámek*
+- **Franz Kafka** (1883–1924) – *[[Premena|Proměna]]*, *Proces*, *Zámek*
 - **James Joyce** (1882–1941) – *Odysseus* (proud vědomí, 700 stran jednoho dne)
 - **Virginia Woolf** (1882–1941) – *Paní Dallowayová*
 - **Thomas Mann** (1875–1955) – *Kouzelný vrch*, *Smrt v Benátkách*
@@ -60,5 +60,5 @@ Modernismus zásadně proměnil literaturu 20. stol. Proud vědomí ovlivnil psy
 - [[Premena|Proměna]] – Franz Kafka
 
 ## Viz také
-- [[Mezivalecna_literatura]] – souběžné české a světové meziválečné literární hnutí
-- [[Dystopie]] – odcizení a kontrola jako témata pokračují v dystopii
+- [[Obdobi/Mezivalecna_literatura|Meziválečná literatura]] – souběžné české a světové meziválečné literární hnutí
+- [[Obdobi/Dystopie|Dystopie]] – odcizení a kontrola jako témata pokračují v dystopii

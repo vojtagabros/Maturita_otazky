@@ -7,7 +7,7 @@
 ---
 
 ## Historický kontext
-Renesance (fr. *renaissance* = **znovuzrození**) bylo kulturní hnutí, které začalo v Itálii ve 14. stol. a postupně se šířilo Evropou. Základní myšlenka: návrat k antickému odkazu – filozofii, umění a literatuře – po středověku, kdy všechno ovládala církev.
+Renesance (fr. *renaissance* = **znovuzrození**) bylo kulturní hnutí, které začalo v Itálii ve 14. stol. a postupně se šířilo Evropou. Základní myšlenka: návrat k [[Obdobi/Antika|antickému]] odkazu – filozofii, umění a literatuře – po středověku, kdy všechno ovládala církev.
 
 Klíčové historické momenty:
 - **Pád Konstantinopole** (1453) – byzantští učenci přinesli do Itálie řecké rukopisy
@@ -39,9 +39,9 @@ Itálie (Florencie, Řím, Benátky) byla centrem renesance – bohaté obchodni
 
 ## Hlavní představitelé
 - **Francesco Petrarca** (1304–1374) – sonety *Canzoniere*, "otec humanismu"
-- **Giovanni Boccaccio** (1313–1375) – *Dekameron*
+- **Giovanni Boccaccio** (1313–1375) – *[[Dekameron]]*
 - **Dante Alighieri** (1265–1321) – *Božská komedie* (přechodné dílo středověk/renesance)
-- **William Shakespeare** (1564–1616) – dramata (*Hamlet*, *Romeo a Julie*, *Othello*, *Macbeth*…)
+- **William Shakespeare** (1564–1616) – dramata (*[[Hamlet]]*, *Romeo a Julie*, *Othello*, *Macbeth*...)
 - **Miguel de Cervantes** (1547–1616) – *Don Quijote* (1605–1615), první moderní román
 - **François Rabelais** – *Gargantua a Pantagruel*, humanistická satira
 - **Niccolò Machiavelli** – *Vladař* (politická filozofie, cynický realismus)

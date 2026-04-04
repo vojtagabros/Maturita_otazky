@@ -37,3 +37,4 @@ Karel Čapek je **nejvýznamnější český spisovatel meziválečného období
 - **[[SouvisejiciAutori/Jiri_Wolker|Jiří Wolker]]** -- současník, představitel jiného proudu (proletářská poezie)
 - **[[SouvisejiciAutori/Vitezslav_Nezval|Vítězslav Nezval]]** -- avantgarda, poetismus
 - **[[SouvisejiciAutori/Jaroslav_Seifert|Jaroslav Seifert]]** -- další klíčový autor meziválečné kultury
+- **[[1984|George Orwell]]** -- oba varovali před totalitarismem; Čapek v [[RUR|R.U.R.]] a *Válce s mloky*, Orwell v *1984*

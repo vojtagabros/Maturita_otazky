@@ -1,6 +1,6 @@
 # Zločin a trest
 
-**Autor:** Fjodor Michajlovič Dostojevskij
+**Autor:** [[SouvisejiciAutori/Fjodor_Dostojevskij|Fjodor Michajlovič Dostojevskij]]
 
 ---
 
@@ -42,7 +42,7 @@ Spisovný jazyk. Francouzské fráze (une teorie comme une autre) i německé v�
 ---
 
 ## Literární a historický kontext
-Dílo je základním kamenem pro psychologickou prózu. Realismus -- věcný, skutečný, 2. polovina 19. století. Reálné zobrazení skutečnosti, snaží se pojmout život v jeho komplexnosti. Opravdový život nezkreslený subjektivními pocity, ideály a dojmy. Realistický hrdina -- typický jedinec, vyvíjí se jeho myšlenky a názory. Snaží se zachytit skutečnou podstatu věcí. Kritika poměrů = kritický realismus. Další autoři: Nikolaj Vasiljevič Gogol, Lev Nikolajevič Tolstoj, Honoré de Balzac, Mark Twain.
+Dílo je základním kamenem pro psychologickou prózu. [[Obdobi/Realismus_a_naturalismus|Realismus]] -- věcný, skutečný, 2. polovina 19. století. Reálné zobrazení skutečnosti, snaží se pojmout život v jeho komplexnosti. Opravdový život nezkreslený subjektivními pocity, ideály a dojmy. Realistický hrdina -- typický jedinec, vyvíjí se jeho myšlenky a názory. Snaží se zachytit skutečnou podstatu věcí. Kritika poměrů = kritický realismus. Další autoři: [[SouvisejiciAutori/Nikolaj_Vasiljevic_Gogol|Nikolaj Vasiljevič Gogol]], [[SouvisejiciAutori/Lev_Nikolajevic_Tolstoj|Lev Nikolajevič Tolstoj]], [[SouvisejiciAutori/Honore_de_Balzac|Honoré de Balzac]], [[SouvisejiciAutori/Mark_Twain|Mark Twain]].
 
 ## Kontext vzhledem k dílu autora
 Fjodor Michajlovič Dostojevskij (1821--1881), Moskva/Petrohrad, Rusko. Narozen v rodině lékaře. Jeden z nejvýznamnějších světových spisovatelů, vrcholný představitel ruského realismu a předchůdce moderní psychologické prózy. Byl vězněn, odsouzen k zastřelení, ale trest byl změněn na vyhnanství a nucené práce na Sibiři. Zemřel na epilepsii a emfyzém. Další díla: Idiot, Bratři Karamazové.
@@ -51,3 +51,13 @@ Fjodor Michajlovič Dostojevskij (1821--1881), Moskva/Petrohrad, Rusko. Narozen 
 
 ## Obsah
 Příběh chudého studenta Raskolnikova, jenž ve finanční tísni zavraždí starou lichvářku a okrade ji. Vědomí spáchaného zločinu jej na několik dní uvrhne do otupělé letargie, během níž není schopen opustit byt. Raskolnikov je nakonec uštván démony svého svědomí do takové míry, že se s pomocí Soni rozhodne sám k činu doznat a pokusí se jej alespoň částečně odčinit. Je odsouzen na nucené práce na Sibiři. Soňa svou čistou a upřímnou láskou a vírou v Boha způsobuje Raskolnikovo obrácení -- zlepšuje se jeho přístup k životu a lidem.
+
+---
+
+## Viz také
+- [[SouvisejiciAutori/Fjodor_Dostojevskij|Fjodor Michajlovič Dostojevskij]]
+- [[Obdobi/Realismus_a_naturalismus|Realismus a naturalismus]]
+- [[SouvisejiciAutori/Lev_Nikolajevic_Tolstoj|Lev Nikolajevič Tolstoj]] -- ruský realismus
+- [[Premena|Proměna]] -- psychologická próza, vnitřní svět postavy
+- [[Pycha_a_predsudek|Pýcha a předsudek]] -- společenský realismus 19. století
+- [[Norske_drevo|Norské dřevo]] -- psychologická próza moderní

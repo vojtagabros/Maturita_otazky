@@ -23,7 +23,7 @@ Později odešel do Francie, kde působil jako vychovatel dcer v královské rod
 ---
 
 ## Literární význam
-Goldoni proměnil italské divadlo -- z improvizované komedie dell'arte vytvořil **literární komedii s pevným textem**. Je považován za italského Moliera. Jeho hry se hrají dodnes po celém světě.
+Goldoni proměnil italské divadlo -- z improvizované komedie dell'arte vytvořil **literární komedii s pevným textem**. Je považován za italského [[SouvisejiciAutori/Moliere|Molièra]]. Jeho hry se hrají dodnes po celém světě.
 
 ---
 

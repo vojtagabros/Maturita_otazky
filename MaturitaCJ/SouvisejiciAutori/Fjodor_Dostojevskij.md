@@ -24,7 +24,7 @@ Dostojevskij je mistrem **psychologického románu** – jeho postavy procházej
 ---
 
 ## Literární význam
-Dostojevskij je považován za **zakladatele psychologického románu** a předchůdce existencialismu. Jeho vliv na 20. století je obrovský – Kafka, Camus, Sartre, Faulkner, všichni ho uznávali za mistra.
+Dostojevskij je považován za **zakladatele psychologického románu** a předchůdce existencialismu. Jeho vliv na 20. století je obrovský -- [[Premena|Kafka]], Camus, Sartre, Faulkner, všichni ho uznávali za mistra.
 
 ---
 

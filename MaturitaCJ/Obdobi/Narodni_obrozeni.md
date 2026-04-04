@@ -13,7 +13,7 @@ Po Bílé hoře prchla česká protestantská šlechta a vzdělanci do exilu, je
 
 **Impuls k obrození:**
 - **Josefínské reformy** (Josef II., 1780–1790) – zrušení nevolnictví, náboženská tolerance, omezení jezuitského vlivu. Vznikl prostor pro kulturní obnovu.
-- **Osvícenství** – vědecký zájem o jazyky, historii a kulturu národů
+- **[[Obdobi/Osvicenstvi|Osvícenství]]** – vědecký zájem o jazyky, historii a kulturu národů
 - **Napoleonské války** a romantický nacionalismus – zájem o národní kultury po celé Evropě
 - Industrializace a urbanizace – venkovské obyvatelstvo (česky mluvící) se přesouvá do měst
 
@@ -31,7 +31,7 @@ Po Bílé hoře prchla česká protestantská šlechta a vzdělanci do exilu, je
 - Zájem o národní historii a slavnou (někdy idealizovanou) minulost
 - **Balada** jako oblíbený žánr (Erben) – temné, osudové příběhy z lidové tradice
 - Pohádky a pověsti – Němcová jako sbíratelka a přepravovatelka
-- Historický román – Jirásek
+- Historický román – [[SouvisejiciAutori/Alois_Jirasek|Jirásek]]
 - **Čeština jako nástroj národní identity** – každé vydání knihy v češtině bylo politický akt
 - Romantické rysy – příroda, folklór, středověk, národní hrdina
 
@@ -41,7 +41,7 @@ Po Bílé hoře prchla česká protestantská šlechta a vzdělanci do exilu, je
 - **František Palacký** (1798–1876) – *Dějiny národu českého*, "otec národa"
 - **Václav Matěj Kramerius** – noviny *Krameriusovy c. k. vlastenské noviny*
 - **František Ladislav Čelakovský** – *Ohlas písní ruských*, *Ohlas písní českých*
-- **Karel Jaromír Erben** (1811–1870) – *Kytice*, archiv českého folklóru
+- **Karel Jaromír Erben** (1811–1870) – *[[Kytice]]*, archiv českého folklóru
 - **[[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]]** (1820–1862) – *Babička*, sbírky pohádek
 - **[[SouvisejiciAutori/Karel_Hynek_Macha|Karel Hynek Mácha]]** (1810–1836) – *Máj* (vrchol romantismu, přesahuje obrození)
 - **Josef Kajetán Tyl** – divadlo, *Kde domov můj?* (pozdější státní hymna)
@@ -56,4 +56,4 @@ Národní obrození zachránilo češtinu jako literární jazyk a vytvořilo z�
 - [[Kytice]] – Karel Jaromír Erben
 
 ## Viz také
-- [[Romantismus]] – mezinárodní literární kontext
+- [[Obdobi/Romantismus|Romantismus]] – mezinárodní literární kontext

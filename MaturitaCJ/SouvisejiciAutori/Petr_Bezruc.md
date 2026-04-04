@@ -30,3 +30,4 @@ Bezruč je unikátní tím, že celé jeho dílo tvoří v podstatě **jedna sb�
 - **Otokar Březina** -- symbolistní básník, duchovní a filozofická poezie
 - **Viktor Dyk** -- básník české moderny, národní a politická poezie
 - **[[SouvisejiciAutori/Jaroslav_Seifert|Jaroslav Seifert]]** -- další generace české poezie, navazující na tradici sociálně angažované lyriky
+- **[[SouvisejiciAutori/Jiri_Wolker|Jiří Wolker]]** -- proletářská poezie navazující na sociální tradici Bezručovy tvorby

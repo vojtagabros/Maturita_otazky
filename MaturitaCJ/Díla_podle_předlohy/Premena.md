@@ -62,3 +62,11 @@ Sestra Gréta se stará o Řehoře: nosí mu jídlo (zjistí, že mu chutná hni
 Do bytu se nastěhují tři nájemníci. Jednou večer Řehoř vyleze za Grétiným houslením – nájemníci v hrůze ohlásí odchod.
 
 Gréta řekne otci: „Musíme se toho zbavit." Řehoř to slyší, vrátí se do pokoje a zemře ve spánku. Rodina (osvobozena) vyjede na výlet.
+
+---
+
+## Viz také
+- [[Obdobi/Modernismus|Modernismus]] – expresionismus a existencialismus v literatuře 20. století
+- [[RUR]] – [[SouvisejiciAutori/Karel_Capek|Karel Čapek]] a téma odcizení člověka
+- [[1984]] – systém drtící jedince
+- [[Zlocin_a_trest|Zločin a trest]] – vina a psychologický rozpad

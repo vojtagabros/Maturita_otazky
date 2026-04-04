@@ -27,5 +27,5 @@ Homérovy eposy jsou **základ celé evropské literatury**. Každý literární
 ## Souvislosti
 - **[[Recke_baje_a_povesti|Eduard Petiška]]** – Petiškovy *Řecké báje a pověsti* jsou moderní převyprávění příběhů, které Homér zachytil v Íliadě a Odysseie
 - **[[Hobit|J. R. R. Tolkien]]** – Tolkien jako filolog studoval Homéra; *Hobit* a *Pán prstenů* navazují na epickou tradici, kterou Homér založil
-- **[[Dekameron|Giovanni Boccaccio]]** – renesanční autoři přímo navazovali na antickou tradici
+- **[[Dekameron|Giovanni Boccaccio]]** – [[Obdobi/Renesance_a_humanismus|renesanční]] autoři přímo navazovali na antickou tradici
 - **[[SouvisejiciAutori/Alois_Jirasek|Alois Jirásek]]** – Jiráskovy *Staré pověsti české* plní pro českou kulturu podobnou roli jako Homér pro řeckou

@@ -9,7 +9,7 @@ tags: [maturita, literatura, realismus, svetova-literatura, proza]
 ---
 
 ## O autorovi
-Mark Twain (vlastním jménem Samuel Langhorne Clemens) je považován za **otce americké literatury** a jednoho z nejvýznamnějších amerických spisovatelů a humoristů. Představitel realismu s výrazným **lidovým jazykem, humorem a satirou**.
+Mark Twain (vlastním jménem Samuel Langhorne Clemens) je považován za **otce americké literatury** a jednoho z nejvýznamnějších amerických spisovatelů a humoristů. Představitel [[Obdobi/Realismus_a_naturalismus|realismu]] s výrazným **lidovým jazykem, humorem a satirou**.
 
 Twain vyrůstal u řeky Mississippi, která se stala klíčovým motivem jeho tvorby. Pracoval jako lodní pilot, novinář a cestovatel. Jeho pseudonym pochází z říčního slangu (*mark twain* = dvě sáhy hloubky).
 

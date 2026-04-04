@@ -41,13 +41,13 @@ Osvícenství také přineslo **sentimentalismus** jako protipohyb – zdůrazn�
 - **Voltaire** (1694–1778) – *Candide* (satirický filozofický román)
 - **Jean-Jacques Rousseau** (1712–1778) – *Emil aneb O výchově*, *Společenská smlouva*
 - **Denis Diderot** (1713–1784) – *Encyklopedie*, *Jeptiška*
-- **Jonathan Swift** (1667–1745) – *Gulliverovy cesty* (ostrá satira)
-- **Daniel Defoe** (1660–1731) – *Robinson Crusoe*
+- **[[SouvisejiciAutori/Jonathan_Swift|Jonathan Swift]]** (1667–1745) – *Gulliverovy cesty* (ostrá satira)
+- **Daniel Defoe** (1660–1731) – *[[Robinson_Crusoe|Robinson Crusoe]]*
 - **Henry Fielding** – *Tom Jones*
 - Čechy: **Josef Dobrovský** (vědecký přístup k češtině), **Václav Matěj Kramerius**
 
 ## Vliv na pozdější literaturu
-Osvícenství položilo základy liberalismu, moderní vědy, sekulárního státu a lidských práv. Přineslo kritický pohled na společnost, který přežil do realismu. Jako reakce na osvícenský racionalismus pak vznikl romantismus.
+Osvícenství položilo základy liberalismu, moderní vědy, sekulárního státu a lidských práv. Přineslo kritický pohled na společnost, který přežil do realismu. Jako reakce na osvícenský racionalismus pak vznikl [[Obdobi/Romantismus|romantismus]].
 
 ---
 

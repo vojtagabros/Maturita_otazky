@@ -52,7 +52,7 @@ Poetický, melodický styl s plynným jazykem a výraznými obrazy. Hojné hudeb
 Japonsko konce 60. let prožívalo studentské bouře (Zengakuren). Japonský ekonomický zázrak přinesl westernizaci a amerikanizaci kultury. Murakami je v Japonsku kontroverzní – kritika mu vytýká odcizení japonské literární tradici a psaní „západních" románů (vliv Hemingwaye, Carvera). Název podle Beatlesovy písně *Norwegian Wood* z alba *Rubber Soul* (1965). Téma mladické sebevraždy je v Japonsku kulturně specifické.
 
 ## Kontext vzhledem k dílu autora
-Haruki Murakami (nar. 1949), japonský spisovatel, překladatel americké literatury (Fitzgerald, Carver). Provozoval jazzový bar, první román napsal 1979. *Norské dřevo* (1987) bylo nečekaný bestsellerový průlom (miliony výtisků v Japonsku). Je to jeho nejtradičnější, nejrealističtější román – bez magických prvků. Ostatní díla jsou spíše surrealistická: *Kafka na pobřeží* (2002), *1Q84* (2009–2010).
+Haruki Murakami (nar. 1949), japonský spisovatel, překladatel americké literatury (Fitzgerald, Carver). Provozoval jazzový bar, první román napsal 1979. *Norské dřevo* (1987) bylo nečekaný bestsellerový průlom (miliony výtisků v Japonsku). Je to jeho nejtradičnější, nejrealističtější román – bez magických prvků. Ostatní díla jsou spíše surrealistická: *Kafka na pobřeží* (2002), *[[1984|1Q84]]* (2009–2010).
 
 ---
 
@@ -64,3 +64,11 @@ Haruki Murakami (nar. 1949), japonský spisovatel, překladatel americké litera
 Mezitím se Watanabe v Tokiu spřátelí s živou Midori. Je roztrhán mezi Naoko (minulost, smrt, láska) a Midori (přítomnost, život, energie). Naoko se v sanatoriu zabije.
 
 Watanabe prochází krizí, putuje Japonskem. Nakonec zavolá Midori a řekne jí, že ji miluje – ale v okamžiku volání si neuvědomuje, kde vlastně je.
+
+---
+
+## Viz také
+- [[Obdobi/Postmodernismus|Postmodernismus]] – Murakami jako představitel japonského postmodernismu
+- [[1984]] – Murakamův román *1Q84* odkazuje na Orwellovu dystopii
+- [[Zlocin_a_trest|Zločin a trest]] – psychologická hloubka a existenciální krize
+- [[Premena|Proměna]] – odcizení jedince od okolního světa

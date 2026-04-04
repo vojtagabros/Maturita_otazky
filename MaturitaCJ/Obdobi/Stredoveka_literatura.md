@@ -61,7 +61,7 @@ Nejvýznamnější díla středověké epiky:
 ---
 
 ## Vliv na pozdější literaturu
-Středověké eposy a rytířské romány položily základ **evropské narativní tradice**. Artušovské legendy inspirovaly Tolkiena, T. H. Whitea a celý žánr fantasy. Trubadúrská poezie ovlivnila renesanční milostnou lyriku (Petrarca). Hrdinské eposy formovaly národní identity evropských států.
+Středověké eposy a rytířské romány položily základ **evropské narativní tradice**. Artušovské legendy inspirovaly [[Hobit|Tolkiena]], T. H. Whitea a celý žánr fantasy. Trubadúrská poezie ovlivnila [[Obdobi/Renesance_a_humanismus|renesanční]] milostnou lyriku (Petrarca). Hrdinské eposy formovaly národní identity evropských států.
 
 ---
 

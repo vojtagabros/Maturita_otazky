@@ -7,7 +7,7 @@ Fantasy jako moderní literární žánr: zejm. od 20. stol. (kořeny v mytologi
 ---
 
 ## Historický kontext
-Fantasy jako moderní žánr se etabloval v první polovině 20. stol., přestože jeho kořeny sahají k antické mytologii, středověkým rytířským románům (*chanson de geste*, Artušovský cyklus), renesančním epickým básním (Ariosto) a gotickým románům 18.–19. stol.
+Fantasy jako moderní žánr se etabloval v první polovině 20. stol., přestože jeho kořeny sahají k [[Obdobi/Antika|antické]] mytologii, [[Obdobi/Stredoveka_literatura|středověkým]] rytířským románům (*chanson de geste*, Artušovský cyklus), [[Obdobi/Renesance_a_humanismus|renesančním]] epickým básním (Ariosto) a gotickým románům 18.–19. stol.
 
 **Tolkienův projekt:** J. R. R. Tolkien byl profesorem **středověké angličtiny** v Oxfordu. Byl přesvědčen, že **Anglie nemá vlastní mytologii** srovnatelnou s řeckou, severskou nebo finskou. Svými díly – *Silmarillion*, *Hobit*, *Pán prstenů* – se pokusil vytvořit zcela novou mytologii pro Anglii. Jeho rozsáhlá znalost středověkých jazyků a literatur (stará angličtina, staronorština, finština) se promítla do detailně vypracovaného světa **Středozemě** s vlastními jazyky, historií a mytologií.
 
@@ -44,7 +44,7 @@ Tyto jazyky mají gramatiku, slovní zásobu a historii – nejde o náhodné ps
 - **Robert E. Howard** – *Conan Barbar* (sword and sorcery)
 
 ## Vliv na kulturu
-Tolkienova Středozem je nejslavnějším vymyšleným světem v dějinách literatury. Pojmy hobbit, ork, elf (Tolkienova verze), trpaslík (v tomto pojetí), mithril pronikly do celé popkultury. Filmové adaptace Petera Jacksona (2001–2003) jsou monumentem. Videohry, RPG systémy, *Dungeons & Dragons* – vše to stojí na Tolkienových základech.
+Tolkienova Středozem je nejslavnějším vymyšleným světem v dějinách literatury. Pojmy [[Hobit|hobbit]], ork, elf (Tolkienova verze), trpaslík (v tomto pojetí), mithril pronikly do celé popkultury. Filmové adaptace Petera Jacksona (2001–2003) jsou monumentem. Videohry, RPG systémy, *Dungeons & Dragons* – vše to stojí na Tolkienových základech.
 
 ---
 

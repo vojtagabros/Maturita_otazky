@@ -7,7 +7,7 @@ Přibližně 1857–1900 (Baudelairovy *Květy zla* jako zakladatelský bod; vrc
 ---
 
 ## Historický kontext
-Symbolismus vznikl ve Francii jako **reakce na realismus a naturalismus** – autoři odmítali povrchní popis reality a hledali hlubší, duchovní pravdy skryté za jevy. Zároveň byl reakcí na odcizení moderního člověka průmyslové civilizaci.
+Symbolismus vznikl ve Francii jako **reakce na [[Obdobi/Realismus_a_naturalismus|realismus a naturalismus]]** – autoři odmítali povrchní popis reality a hledali hlubší, duchovní pravdy skryté za jevy. Zároveň byl reakcí na odcizení moderního člověka průmyslové civilizaci.
 
 **Fin de siècle** (konec století) – přelom 19. a 20. stol. byl poznamenán pocitem úpadku, krize hodnot a vyčerpanosti. Vědecký pokrok přinesl nové vynálezy, ale také dehumanizaci, znečištění a pocit, že svět ztratil smysl. Z tohoto pocitu vznikla dekadence.
 
@@ -36,7 +36,7 @@ Symbolismus vznikl ve Francii jako **reakce na realismus a naturalismus** – au
 
 ## Hlavní představitelé
 **Francouzská:**
-- **Charles Baudelaire** (1821–1867) – *Květy zla* (zakladatel)
+- **Charles Baudelaire** (1821–1867) – *[[Kvety_zla|Květy zla]]* (zakladatel)
 - **Paul Verlaine** (1844–1896) – subjektivní lyrika, muzikálnost
 - **Arthur Rimbaud** (1854–1891) – *Opilý koráb*, *Sezóna v pekle*; básně psal do 20 let, pak opustil literaturu
 - **Stéphane Mallarmé** (1842–1898) – hermetická poezie, "Poledne fauna"
@@ -51,7 +51,7 @@ Symbolismus vznikl ve Francii jako **reakce na realismus a naturalismus** – au
 - **Antonín Sova**, **František Xaver Šalda**
 
 ## Vliv na pozdější literaturu
-Symbolismus zásadně ovlivnil celou poezii 20. stol. – avantgardu, surrealismus, moderní lyriku. Technika symbolu a synestézie je standardní součástí poetického vyjadřování. Prokletí básníci se stali kulturními ikonami (filmy, romány o jejich životech).
+Symbolismus zásadně ovlivnil celou poezii 20. stol. -- [[Obdobi/Mezivalecna_literatura|avantgardu]], surrealismus, moderní lyriku. Technika symbolu a synestézie je standardní součástí poetického vyjadřování. Prokletí básníci se stali kulturními ikonami (filmy, romány o jejich životech).
 
 ---
 

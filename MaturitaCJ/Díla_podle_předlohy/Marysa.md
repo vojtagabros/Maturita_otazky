@@ -48,10 +48,10 @@ Moravský dialekt – autentické vesnické nářečí Slovácka; klíčový prv
 ---
 
 ## Literární a historický kontext
-Hra inspirována skutečnou událostí – vraždou na moravském venkově, kde žena otrávila manžela. Premiéra v Národním divadle 28. 3. 1894. Součást vlny naturalistického divadla v Evropě (Antoine ve Francii, Hauptmann v Německu). Vliv Ibsena (*Nora*, *Hedda Gablerová* – ženy uvězněné ve špatném manželství). Vilém Mrštík překládal Turgeněva a znal ruský realismus.
+Hra inspirována skutečnou událostí – vraždou na moravském venkově, kde žena otrávila manžela. Premiéra v Národním divadle 28. 3. 1894. Součást vlny naturalistického divadla v Evropě (Antoine ve Francii, Hauptmann v Německu). Vliv Ibsena (*Nora*, *Hedda Gablerová* – ženy uvězněné ve špatném manželství). Vilém Mrštík překládal Turgeněva a znal ruský [[Obdobi/Realismus_a_naturalismus|realismus]].
 
 ## Kontext vzhledem k dílu autora
-Alois Mrštík (1861–1925) a Vilém Mrštík (1863–1912), čeští prozaici a dramatici. Vilém byl hlavním autorem, překládal z ruštiny (Tolstoj, Turgeněv). Maryša je jediná Mrštíkova hra, která přetrvala jako živá část divadelního repertoáru. Vilém dále napsal *Santa Lucia* (1893), Alois lyrickou novelu *Pohádka máje* (1897).
+Alois Mrštík (1861–1925) a Vilém Mrštík (1863–1912), čeští prozaici a dramatici. Vilém byl hlavním autorem, překládal z ruštiny ([[SouvisejiciAutori/Lev_Nikolajevic_Tolstoj|Tolstoj]], Turgeněv). Maryša je jediná Mrštíkova hra, která přetrvala jako živá část divadelního repertoáru. Vilém dále napsal *Santa Lucia* (1893), Alois lyrickou novelu *Pohádka máje* (1897).
 
 ---
 
@@ -61,3 +61,12 @@ Maryša miluje vojáka Francka. Rodiče ji provdají za bohatého vdovce Vávru,
 Manželství je plné napětí a chladu. Francek se vrátí z vojny a hledá Maryšu. Vávra žárlivě zakazuje kontakt.
 
 Maryša začne Vávrovi přimíchávat jed do kafe. Vávra skomírá. V závěrečné scéně Maryša přiznává čin: „Já sem mu dala jed." Hra nekončí soudem ani rozuzlením – jen přiznáním. Tato otevřenost je naturalismus v čisté podobě.
+
+---
+
+## Viz také
+- [[Obdobi/Realismus_a_naturalismus|Realismus a naturalismus]]
+- [[SouvisejiciAutori/Lev_Nikolajevic_Tolstoj|Lev Nikolajevič Tolstoj]] – ruský realismus, vliv na Mrštíky
+- [[Kytice]] – česká venkovská tematika a folklorní tradice
+- [[Pycha_a_predsudek|Pýcha a předsudek]] – nucený sňatek a postavení ženy ve společnosti
+- [[Zlocin_a_trest|Zločin a trest]] – vražda a morální důsledky

@@ -11,7 +11,7 @@ tags: [maturita, literatura, ceska-literatura, poezie, mezivalecna-literatura]
 ## O autorovi
 Wolker je nejvýznamnější představitel **proletářské poezie** v české literatuře. Zemřel tragicky mladý ve 24 letech na tuberkulózu, přesto stihl vytvořit dílo, které výrazně ovlivnilo českou poezii.
 
-Pocházel z Prostějova, studoval v Praze, kde se zapojil do uměleckého a politického života. Byl členem Devětsilu -- avantgardní umělecké skupiny.
+Pocházel z Prostějova, studoval v Praze, kde se zapojil do uměleckého a politického života. Byl členem Devětsilu -- avantgardní umělecké skupiny. Mezi jeho současníky patřili [[SouvisejiciAutori/Vitezslav_Nezval|Nezval]] a [[SouvisejiciAutori/Jaroslav_Seifert|Seifert]].
 
 ---
 

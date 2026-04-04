@@ -3,7 +3,7 @@ tags: [maturita, literatura, ceska-literatura, proza]
 ---
 
 # Josef Škvorecký
-**Období:** Česká poválečná próza
+**Období:** Česká poválečná próza / [[Obdobi/Postmodernismus|postmodernismus]]
 **Roky života:** 1924–2012
 
 ---

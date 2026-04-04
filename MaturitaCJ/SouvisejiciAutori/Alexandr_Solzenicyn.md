@@ -3,7 +3,7 @@ tags: [maturita, literatura, svetova-literatura, proza]
 ---
 
 # Alexandr Isajevič Solženicyn
-**Období:** Sovětská/ruská literatura 20. století
+**Období:** Sovětská/ruská literatura 20. století ([[Obdobi/Dystopie|dystopie]])
 **Roky života:** 1918–2008
 
 ---

@@ -30,4 +30,5 @@ Goethe spolu se Schillerem definoval **výmarský klasicismus** a ovlivnil celou
 ## Souvislosti
 - **[[SouvisejiciAutori/Karel_Hynek_Macha|Karel Hynek Mácha]]** -- český romantik ovlivněný německou romantickou tradicí, kterou Goethe spoluvytvářel
 - **[[SouvisejiciAutori/Alexandr_Puskin|Alexandr Puškin]]** -- *Evžen Oněgin* navazuje na Goethovu tradici výjimečného hrdiny v konfliktu se společností
+- **[[Kvety_zla|Charles Baudelaire]]** -- navázal na Goethovu tradici; Goethe jako předchůdce [[Obdobi/Symbolismus_a_dekadence|symbolismu]]
 - **Friedrich Schiller** -- Goethův přítel a spolupracovník ve výmarském klasicismu

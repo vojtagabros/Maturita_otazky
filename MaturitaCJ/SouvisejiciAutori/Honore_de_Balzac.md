@@ -32,4 +32,5 @@ Balzac vytvořil koncept **„návratných postav"** -- stejné postavy se objev
 - **[[SouvisejiciAutori/Fjodor_Dostojevskij|Fjodor Dostojevskij]]** -- oba vrcholní realisté; Dostojevskij překládal Balzacovu *Eugénii Grandetovou* do ruštiny
 - **[[SouvisejiciAutori/Lev_Nikolajevic_Tolstoj|Lev Tolstoj]]** -- oba vytvořili rozsáhlá románová panoramata své doby
 - **[[Kvety_zla|Charles Baudelaire]]** -- současník, představitel jiného proudu francouzské literatury (*Květy zla*)
-- **Victor Hugo** -- další velký francouzský autor 19. století (*Bídníci*), romanticko-realistický přístup
+- **Victor Hugo** -- další velký francouzský autor 19. století (*Bídníci*), romanticko-realistický přístup ([[Obdobi/Romantismus|romantismus]])
+- **[[SouvisejiciAutori/Nikolaj_Vasiljevic_Gogol|Nikolaj Gogol]]** -- oba představitelé kritického realismu ve svých národních literaturách

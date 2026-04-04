@@ -26,7 +26,7 @@ Zemřel krátce po představení své hry *Zdravý nemocný*, ve které sám hr�
 ---
 
 ## Literární význam
-Moliere definoval **charakter komedie** jako žánru, který nejen baví, ale i **kritizuje společnost**. Jeho postavy (Harpagon, Tartuffe) se staly archetypy lidských nectností. Vliv na celé evropské divadlo -- od Goldoniho po moderní komedii.
+Moliere definoval **charakter komedie** jako žánru, který nejen baví, ale i **kritizuje společnost**. Jeho postavy (Harpagon, Tartuffe) se staly archetypy lidských nectností. Vliv na celé evropské divadlo -- od [[SouvisejiciAutori/Carlo_Goldoni|Goldoniho]] po moderní komedii.
 
 ---
 

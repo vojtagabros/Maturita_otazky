@@ -11,9 +11,9 @@ Meziválečné období bylo dobou obrovských politických, společenských a ku
 
 Praha se stala jedním z center středoevropské kultury. **Kavárna jako kulturní instituce** – pražské kavárny (Slavia, Arco, Unionka) byly místy setkávání českých i německy píšících autorů. Kafka, Brod, Werfel – to bylo tzv. *Pražské kolo* německy píšících pražských autorů.
 
-Mezinárodně: **Velká hospodářská krize** (1929) otřásla demokraciemi a otevřela cestu **totalitárním hnutím** – Mussoliniho fašismu v Itálii (od 1922) a Hitlerovu nacismu v Německu (od 1933). Hrozba války prostupuje literaturou meziválečného období – Čapkova *Bílá nemoc* (1937) nebo *Válka s mloky* (1936) jsou přímou reakcí na nástup fašismu.
+Mezinárodně: **Velká hospodářská krize** (1929) otřásla demokraciemi a otevřela cestu **totalitárním hnutím** – Mussoliniho fašismu v Itálii (od 1922) a Hitlerovu nacismu v Německu (od 1933). Hrozba války prostupuje literaturou meziválečného období – [[SouvisejiciAutori/Karel_Capek|Čapkova]] *Bílá nemoc* (1937) nebo *Válka s mloky* (1936) jsou přímou reakcí na nástup fašismu.
 
-**Avantgarda** – umělecké hnutí přinášející radikální experimenty: futurismus, dadaismus, surrealismus, konstruktivismus. V Čechách **poetismus** (Nezval, Seifert) a pak **surrealismus** (Nezval, Teige).
+**Avantgarda** – umělecké hnutí přinášející radikální experimenty: futurismus, dadaismus, surrealismus, konstruktivismus. V Čechách **poetismus** ([[SouvisejiciAutori/Vitezslav_Nezval|Nezval]], [[SouvisejiciAutori/Jaroslav_Seifert|Seifert]]) a pak **surrealismus** (Nezval, Teige).
 
 **"Ztracená generace"** (Lost Generation) – američtí autoři deziluze po 1. světové válce (Hemingway, Fitzgerald, Dos Passos). Žili jako expatrianti v Paříži, zklamáni ideály, které válka pohřbila.
 
@@ -36,16 +36,16 @@ Mezinárodně: **Velká hospodářská krize** (1929) otřásla demokraciemi a o
 - **[[SouvisejiciAutori/Erich_Maria_Remarque|Erich Maria Remarque]]** (1898–1970) – *Na západní frontě klid*
 - **Bertolt Brecht** (1898–1956) – epické divadlo, *Matka Kuráž*
 - **Aldous Huxley** (1894–1963) – *Brave New World* (dystopie, 1932)
-- **J. R. R. Tolkien** (1892–1973) – *Hobit* (1937)
-- **Antoine de Saint-Exupéry** (1900–1944) – *Malý princ* (1943, psán v exilu)
+- **J. R. R. Tolkien** (1892–1973) – *[[Hobit]]* (1937)
+- **Antoine de Saint-Exupéry** (1900–1944) – *[[Maly_princ|Malý princ]]* (1943, psán v exilu)
 
 **Česká:**
-- **Karel Čapek** (1890–1938) – *R.U.R.*, *Válka s mloky*, *Bílá nemoc*, *Matka*, detektivní próza
+- **[[SouvisejiciAutori/Karel_Capek|Karel Čapek]]** (1890–1938) – *[[RUR|R.U.R.]]*, *Válka s mloky*, *Bílá nemoc*, *Matka*, detektivní próza
 - **Josef Čapek** (1887–1945) – výtvarník, spoluautor myšlenky robotů, zahynul v koncentračním táboře
 - **[[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]]** (1883–1923) – *Osudy dobrého vojáka Švejka*
 - **Vladislav Vančura** (1891–1942) – *Rozmarné léto*, popraven nacisty
 - **[[SouvisejiciAutori/Vitezslav_Nezval|Vítězslav Nezval]]** (1900–1958) – poetismus, surrealismus
-- **Jiří Wolker** (1900–1924) – proletářská lyrika
+- **[[SouvisejiciAutori/Jiri_Wolker|Jiří Wolker]]** (1900–1924) – proletářská lyrika
 
 ## R.U.R. a slovo "robot" – klíčový fakt
 Karel Čapek v R.U.R. (1920) poprvé použil slovo "**robot**" v tomto smyslu. Slovo navrhl jeho bratr Josef Čapek – z českého **"robota"** (dřina, poddanská práce). Hra byla přeložena do desítek jazyků a slovo *robot* vstoupilo do všech světových jazyků. Čapek za to nikdy nedostal patřičné uznání.
@@ -61,4 +61,4 @@ Meziválečná literatura dala světu řadu absolutních klasik. Tolkienova Stř
 - [[Maly_princ|Malý princ]] – Antoine de Saint-Exupéry
 
 ## Viz také
-- [[Modernismus]] – paralelní modernistické a expresionistické proudy
+- [[Obdobi/Modernismus|Modernismus]] – paralelní modernistické a expresionistické proudy

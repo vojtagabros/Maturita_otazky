@@ -24,7 +24,7 @@ Nacisté jeho knihy **veřejně pálili** (1933) a odňali mu německé občanst
 ---
 
 ## Literární význam
-Remarque je hlavní představitel **ztracené generace** (*Lost Generation*) – skupiny autorů, kteří zachytili deziluzi po první světové válce (spolu s Hemingwayem a Fitzgeraldem). *Na západní frontě klid* změnil způsob, jakým literatura zobrazuje válku – žádný heroismus, jen utrpení a nesmyslnost.
+Remarque je hlavní představitel **ztracené generace** (*Lost Generation*) v rámci [[Obdobi/Mezivalecna_literatura|meziválečné literatury]] – skupiny autorů, kteří zachytili deziluzi po první světové válce (spolu s Hemingwayem a Fitzgeraldem). *Na západní frontě klid* změnil způsob, jakým literatura zobrazuje válku – žádný heroismus, jen utrpení a nesmyslnost.
 
 ---
 

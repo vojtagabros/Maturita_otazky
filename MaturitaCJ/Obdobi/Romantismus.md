@@ -2,18 +2,18 @@
 #obdobi
 
 ## Časové vymezení
-Přibližně 1790 – 1850 (reakce na osvícenství a průmyslovou revoluci; v Čechách splývá s [[Narodni_obrozeni|národním obrozením]])
+Přibližně 1790 – 1850 (reakce na osvícenství a průmyslovou revoluci; v Čechách splývá s [[Obdobi/Narodni_obrozeni|národním obrozením]])
 
 ---
 
 ## Historický kontext
-Romantismus vznikl jako **reakce na osvícenský racionalismus** a jako odezva na zklamání z výsledků Francouzské revoluce. Po nadšení z revoluce přišlo zklamání z napoleonských válek a restaurace starých pořádků na **Vídeňském kongresu** (1815) – šlechtická Evropa obnovila absolutismus, jako by revoluce neproběhla.
+Romantismus vznikl jako **reakce na [[Obdobi/Osvicenstvi|osvícenský]] racionalismus** a jako odezva na zklamání z výsledků Francouzské revoluce. Po nadšení z revoluce přišlo zklamání z napoleonských válek a restaurace starých pořádků na **Vídeňském kongresu** (1815) – šlechtická Evropa obnovila absolutismus, jako by revoluce neproběhla.
 
 **Průmyslová revoluce** (zejm. v Anglii) přinášela urbanizaci, továrny, dětskou práci a odcizení člověka od přírody. Romantičtí umělci reagovali úniky – do přírody, do minulosti, do exotiky, do snů, do národní mytologie.
 
-Romantismus byl úzce propojen s **národně-osvobozeneckými hnutími** v Evropě. Touha po svobodě národů (Řecko, Polsko, Itálie, Maďarsko) se přímo odrážela v literatuře – Lord Byron zemřel bojuje za řeckou nezávislost. Romantismus a nacionalismus šly ruku v ruce.
+Romantismus byl úzce propojen s **národně-osvobozeneckými hnutími** v Evropě. Touha po svobodě národů (Řecko, Polsko, Itálie, Maďarsko) se přímo odrážela v literatuře -- Lord Byron zemřel bojuje za řeckou nezávislost. Romantismus a nacionalismus šly ruku v ruce.
 
-V **Čechách** splývá romantismus s **národním obrozením** – snahou o obnovu české kultury a jazyka po době temna (1620–1780). Erben sbíral folklór jako národní poklad, Mácha psal nejromantičtější českou báseň, Němcová zachycovala venkovský svět jako ideál.
+V **Čechách** splývá romantismus s **[[Obdobi/Narodni_obrozeni|národním obrozením]]** – snahou o obnovu české kultury a jazyka po době temna (1620–1780). Erben sbíral folklór jako národní poklad, Mácha psal nejromantičtější českou báseň, Němcová zachycovala venkovský svět jako ideál.
 
 ---
 
@@ -38,6 +38,7 @@ Romantický hrdina je jeden z klíčových pojmů. Typické rysy:
 
 ## Hlavní představitelé
 **Světová:**
+- **[[SouvisejiciAutori/Johann_Wolfgang_Goethe|Johann Wolfgang Goethe]]** (1749–1832) – *Utrpení mladého Werthera*, *Faust* (preromantismus/klasicismus)
 - **Lord Byron** (1788–1824) – *Childe Harold*, *Manfréd*; sám byl "romantickým hrdinou"
 - **Percy Bysshe Shelley** – *Odpoutaný Prometheus*
 - **Victor Hugo** (1802–1885) – *Bídníci*, *Chrám Matky Boží v Paříži*
@@ -53,7 +54,7 @@ Romantický hrdina je jeden z klíčových pojmů. Typické rysy:
 - **[[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]]** (1820–1862) – *Babička* (přelom romantismus/realismus)
 
 ## Vliv na pozdější literaturu
-Romantismus ovlivnil symbolismus, dekadenci i moderní literaturu. Romantický hrdina je archetyp přežívající v literatuře i popkultuře dodnes. Zájem o folklór a národní mytologii oživil kulturní identity celé Evropy.
+Romantismus ovlivnil [[Obdobi/Symbolismus_a_dekadence|symbolismus a dekadenci]] i moderní literaturu. Romantický hrdina je archetyp přežívající v literatuře i popkultuře dodnes. Zájem o folklór a národní mytologii oživil kulturní identity celé Evropy.
 
 ---
 
@@ -62,7 +63,7 @@ Romantismus ovlivnil symbolismus, dekadenci i moderní literaturu. Romantický h
 - [[Jama_a_kyvadlo|Jáma a kyvadlo a jiné povídky]] – Edgar Allan Poe (temný romantismus, gotická literatura)
 
 ## Viz také
-- [[Narodni_obrozeni]] – český kontext romantismu
+- [[Obdobi/Narodni_obrozeni|Národní obrození]] – český kontext romantismu
 - [[SouvisejiciAutori/Karel_Hynek_Macha|Karel Hynek Mácha]] – vrcholný český romantik
 - [[SouvisejiciAutori/Bozena_Nemcova|Božena Němcová]] – přelom romantismu a realismu
 - [[SouvisejiciAutori/Alexandr_Puskin|Alexandr Puškin]] – zakladatel ruské romantické tradice

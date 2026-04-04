@@ -9,7 +9,7 @@ tags: [maturita, literatura, ceska-literatura, poezie]
 ---
 
 ## O autorovi
-Jaroslav Seifert je **jediný český nositel Nobelovy ceny za literaturu** (1984). Jeho básnická dráha prošla několika fázemi: začínal jako **proletářský básník** (20. léta), přešel k **poetismu** (s Nezvalem), pak k osobní a reflexivní lyrice.
+Jaroslav Seifert je **jediný český nositel Nobelovy ceny za literaturu** (1984). Jeho básnická dráha prošla několika fázemi: začínal jako **proletářský básník** (20. léta), přešel k **poetismu** (s [[SouvisejiciAutori/Vitezslav_Nezval|Nezvalem]]), pak k osobní a reflexivní lyrice.
 
 Seifert byl celoživotně spojen s Prahou – jeho básně oslavují krásu města, žen, přírody a každodenních radostí. V 70. a 80. letech byl jedním z prvních signatářů **Charty 77**.
 

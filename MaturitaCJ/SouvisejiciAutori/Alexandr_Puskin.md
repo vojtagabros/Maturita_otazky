@@ -11,7 +11,7 @@ tags: [maturita, literatura, romantismus, svetova-literatura, poezie, proza]
 ## O autorovi
 Puškin je považován za **zakladatele moderní ruské literatury** a největšího ruského básníka. Zemřel tragicky mladý – zabit v souboji ve 37 letech.
 
-Puškin přinesl do ruské literatury živý, přirozený jazyk a romantický styl. Bez Puškina by nebyli Gogol, Dostojevskij, Tolstoj ani Čechov.
+Puškin přinesl do ruské literatury živý, přirozený jazyk a romantický styl. Bez Puškina by nebyli [[SouvisejiciAutori/Nikolaj_Vasiljevic_Gogol|Gogol]], [[SouvisejiciAutori/Fjodor_Dostojevskij|Dostojevskij]], [[SouvisejiciAutori/Lev_Nikolajevic_Tolstoj|Tolstoj]] ani Čechov.
 
 ---
 

@@ -42,7 +42,7 @@ Elegantní, kultivovaný, lehký a plynný styl. Ironie a understatement (podhod
 ---
 
 ## Literární a historický kontext
-Česká humoristická tradice. Jirotka byl přímo inspirován P. G. Wodehousem a jeho sérií o Jeevesovi a Woosterovi. Saturnin byl psán v roce 1942 za nacistické okupace -- humor jako útěcha a únik. Navazuje na tradici Haška (Švejk) a Čapka. Další autoři: Jaroslav Hašek, Karel Čapek, Eduard Bass.
+Česká humoristická tradice. Jirotka byl přímo inspirován P. G. Wodehousem a jeho sérií o Jeevesovi a Woosterovi. Saturnin byl psán v roce 1942 za nacistické okupace -- humor jako útěcha a únik. Navazuje na tradici [[SouvisejiciAutori/Jaroslav_Hasek|Haška]] (Švejk) a [[SouvisejiciAutori/Karel_Capek|Čapka]]. Další autoři: Jaroslav Hašek, Karel Čapek, Eduard Bass.
 
 ## Kontext vzhledem k dílu autora
 Zdeněk Jirotka (1911--2003), český novinář a fejetonista. Saturnina napsal jako fejetonový seriál v roce 1942, je to jeho nejslavnější dílo a literární vrchol. Napsal i navazující díla (Muž se psem, Saturnin znovu zasahuje), ale žádné nedosáhlo slávy originálu. Saturnin byl adaptován jako televizní seriál (1994, Jan Hartl v hlavní roli).
@@ -51,3 +51,12 @@ Zdeněk Jirotka (1911--2003), český novinář a fejetonista. Saturnina napsal 
 
 ## Obsah
 Bezejmenný vypravěč si najme nového sluhu Saturnina. Saturnin je dokonalý -- vaří, uklízí, organizuje -- ale jeho iniciativa je nevyčerpatelná a způsobuje neočekávané situace. Koupí kanoi bez vědomí pána, "pomůže" strýci s prodejem auta, zorganizuje výpravu do Jizerských hor se sérií katastrof, řeší milostné zápletky vypravěče se slečnou Barborou. Vždy: Saturnin způsobí zdánlivou katastrofu, vše se vyřeší lépe než bylo zamýšleno, vypravěč je spokojenější než předtím. Román nemá dramatický oblouk -- je to série scén propojená postavami a jejich vztahy.
+
+---
+
+## Viz také
+- [[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]] -- český humoristický autor, Švejk
+- [[SouvisejiciAutori/Karel_Capek|Karel Čapek]] -- česká meziválečná próza
+- [[Obdobi/Mezivalecna_literatura|Meziválečná literatura]]
+- [[Vysetrovani_ztraty_tridni_knihy|Vyšetřování ztráty třídní knihy]] -- česká komedie a humor
+- [[Pes_baskervillsky|Pes baskervillský]] -- detektivní zápletka s humornými prvky

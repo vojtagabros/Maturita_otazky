@@ -11,7 +11,7 @@
 | **Časoprostor:** | Středozem – Kraj (Shire), Překlinuté hory, Temný les, Osamělá hora; mytologická minulost |
 | **Kompozice:** | Chronologická – výprava od odchodu po návrat („there and back again"); cestopisná struktura – každá zastávka přináší nové dobrodružství; rytmus odpočinku a nebezpečí |
 | **Literární druh:** | Epika (próza) |
-| **Literární žánr:** | Fantasy román, pohádkový román, dobrodružný román |
+| **Literární žánr:** | [[Obdobi/Fantasy|Fantasy]] román, pohádkový román, dobrodružný román |
 | **Vypravěč:** | Er-forma s výraznými autorskými komentáři a přímou řečí k čtenáři; pohádkový, přátelský tón |
 
 ---
@@ -61,3 +61,11 @@ J. R. R. Tolkien (1892–1973), britský filolog a spisovatel. *Hobita* začal p
 Gandalf přivede do Bilbova hobího domku 13 trpaslíků vedených Thorinem Pavézníkem. Bilbo je „zapsán" jako zlodějíček na výpravu pro znovudobytí pokladu Osamělé hory, střeženého drakem Smaugem.
 
 Výprava prochází nebezpečími: trollové (Bilbo je zachrání lstí), goblini pod horami (Bilbo najde Prsten a unikne Gollumovi hádankami), elfové v Temném lese (Bilbo je osvobodí), Jezerní město. Na Osamělé hoře Bilbo vstoupí ke Smaugovi a šikovnými otázkami odhalí jeho zranitelné místo. Smaug je zastřelen Bardem. Po Smaugově smrti nastane spor o poklad – přijdou goblini a vlci, všichni se spojí (Bitva pěti armád). Thorin zemře. Bilbo se vrátí domů – bez velké části pokladu, ale s Prstenem a dobrodružstvím.
+
+---
+
+## Viz také
+- [[Obdobi/Fantasy]] – literární žánr
+- [[Robinson_Crusoe]] – dobrodružná cesta a návrat
+- [[Alchymista]] – hrdinská cesta a hledání pokladu
+- [[Recke_baje_a_povesti|Řecké báje a pověsti]] – mytologické vyprávění, které Tolkiena inspirovalo

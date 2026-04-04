@@ -7,7 +7,7 @@ Přibližně od 60.–70. let 20. stol. do současnosti
 ---
 
 ## Historický kontext
-Postmodernismus vznikl jako reakce na **modernismus** a na zklamání z "velkých příběhů" (*grand narratives*) – velkých ideologií, které moderní éra nabízela jako základ civilizace: vědecký pokrok, marxismus, nacionalismus, liberalismus. Po zkušenosti s holocaustem, Hirošimou a gulagy tyto velké příběhy ztratily přesvědčivost. *Filozof Jean-François Lyotard: postmodernismus je "nedůvěra ke grand narratives."*
+Postmodernismus vznikl jako reakce na **[[Obdobi/Modernismus|modernismus]]** a na zklamání z "velkých příběhů" (*grand narratives*) – velkých ideologií, které moderní éra nabízela jako základ civilizace: vědecký pokrok, marxismus, nacionalismus, liberalismus. Po zkušenosti s holocaustem, Hirošimou a gulagy tyto velké příběhy ztratily přesvědčivost. *Filozof Jean-François Lyotard: postmodernismus je "nedůvěra ke grand narratives."*
 
 **Politický kontext:**
 - Studentské bouře 1968 (Paříž, Praha) – revolta proti autoritám všeho druhu
@@ -39,16 +39,16 @@ Postmodernismus vznikl jako reakce na **modernismus** a na zklamání z "velkýc
 
 ## Hlavní představitelé
 **Světová:**
-- **Haruki Murakami** (nar. 1949) – *Norské dřevo*, *Kafka na pobřeží*, *1Q84*
+- **Haruki Murakami** (nar. 1949) – *[[Norske_drevo|Norské dřevo]]*, *Kafka na pobřeží*, *1Q84*
 - **Umberto Eco** (1932–2016) – *Jméno růže*, *Foucaultovo kyvadlo*
 - **[[SouvisejiciAutori/Milan_Kundera|Milan Kundera]]** (1929–2023) – *Nesnesitelná lehkost bytí*, *Žert* – Čech píšící francouzsky
 - **Salman Rushdie** (nar. 1947) – *Satanské verše*
 - **Don DeLillo**, **Thomas Pynchon** – americký postmodernismus
 - **Gabriel García Márquez** (1927–2014) – *Sto roků samoty* (magický realismus)
-- **Paulo Coelho** (nar. 1947) – *Alchymista* (populárně-filozofický román)
+- **Paulo Coelho** (nar. 1947) – *[[Alchymista]]* (populárně-filozofický román)
 
 **Česká:**
-- **Michal Viewegh** (nar. 1962) – *Báječná léta pod psa*, *Výchova dívek v Čechách*
+- **Michal Viewegh** (nar. 1962) – *[[Bajecna_leta_pod_psa|Báječná léta pod psa]]*, *Výchova dívek v Čechách*
 - **Jáchym Topol** (nar. 1962) – *Sestra*
 - **Daniela Hodrová** – experimentální próza
 
