@@ -77,6 +77,42 @@ Vypracovaná maturitní témata pro ústní zkoušky – školní rok 2025/2026 
 | Vyšetřování ztráty třídní knihy | Svěrák, Smoljak | Česká humoristická literatura |
 | Saturnin | Zdeněk Jirotka | Česká humoristická literatura |
 
+### Díla podle předlohy (`MaturitaCJ/Díla_podle_předlohy/`)
+
+Kondenzované rozbory všech 20 děl + Zločin a trest ve formátu tabulkové předlohy (téma, motiv, časoprostor, kompozice, druh, žánr, vypravěč, postavy, jazykové prostředky, kontext, obsah).
+
+| Dílo | Autor |
+|------|-------|
+| 1984 | George Orwell |
+| Alchymista | Paulo Coelho |
+| Báječná léta pod psa | Michal Viewegh |
+| Dekameron | Giovanni Boccaccio |
+| Hamlet | William Shakespeare |
+| Hobit | J. R. R. Tolkien |
+| Jáma a kyvadlo | E. A. Poe |
+| Květy zla | Charles Baudelaire |
+| Kytice | Karel Jaromír Erben |
+| Malý princ | Antoine de Saint-Exupéry |
+| Maryša | bratři Mrštíkové |
+| Norské dřevo | Haruki Murakami |
+| Pes baskervillský | Arthur Conan Doyle |
+| Proměna | Franz Kafka |
+| Pýcha a předsudek | Jane Austen |
+| R.U.R. | Karel Čapek |
+| Robinson Crusoe | Daniel Defoe |
+| Řecké báje a pověsti | Eduard Petiška |
+| Saturnin | Zdeněk Jirotka |
+| Vyšetřování ztráty třídní knihy | Svěrák, Smoljak |
+| **Zločin a trest** | **Fjodor Michajlovič Dostojevskij** |
+
 ### Literární období (`MaturitaCJ/Obdobi/`)
 
-Antika · Renesance a humanismus · Osvícenství · Romantismus · Realismus a naturalismus · Symbolismus a dekadence · Modernismus · Meziválečná literatura · Národní obrození · Dystopie · Postmodernismus · Fantasy
+Antika · Středověká literatura · Renesance a humanismus · Osvícenství · Romantismus · Realismus a naturalismus · Symbolismus a dekadence · Modernismus · Meziválečná literatura · Národní obrození · Dystopie · Postmodernismus · Fantasy
+
+### Související autoři (`MaturitaCJ/SouvisejiciAutori/`)
+
+28 profilů autorů s biografií, klíčovými díly a křížovými odkazy.
+
+### Přílohy (`MaturitaCJ/Přílohy/`)
+
+Naskenované studijní materiály (3 PDF).
