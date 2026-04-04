@@ -3,6 +3,13 @@
 > **Délka lekce:** cca 60–90 minut
 > **Cíl:** Studenti se naučí, kde najít kvalitní bezplatné textury, HDRIs a 3D modely, jak je importovat do Blenderu a správně napojit v Shader Editoru. Společně aplikují PBR texturu na model domečku a importují strom ze Sketchfabu. Poté samostatně pracují na jednom ze tří projektů.
 
+### Navigace mezi lekcemi
+| Předchozí          | Další                            |
+| ------------------ | -------------------------------- |
+| [[04_Renderovani]] | [[06_Dalsi_funkce_a_vychytavky]] |
+
+**Všechny lekce:** [[01_Zaklady_modelovani|1]] · [[02_Nastaveni_svetel_a_sceny|2]] · [[03_Kamera_a_animace|3]] · [[04_Renderovani|4]] · [[05_Import_povrchu_a_scen|5]] · [[06_Dalsi_funkce_a_vychytavky|6]]
+
 ---
 
 ## Přehled lekce
@@ -585,5 +592,5 @@
 
 ---
 
-> **Příští lekce:** Lekce 6 – UV Unwrapping a pokročilé mapování textur. Naučíme se, jak správně „rozbalit" 3D model, aby se textury zobrazovaly přesně tam, kde chceme – bez roztahování a deformací.
+> **Příští lekce:** [[06_Dalsi_funkce_a_vychytavky|Lekce 6 – Další funkce a vychytávky]]. Naučíme se pokročilé zkratky, užitečné addons, export do různých formátů a dostaneme přehled zdrojů pro další učení!
 

@@ -1,7 +1,14 @@
 # Lekce 3 – Nastavení kamery a vytvoření záznamu (animace)
 
 > **Délka lekce:** cca 60–90 minut
-> **Cíl:** Studenti se naučí správně umístit a nastavit kameru, porozumí základním pravidlům kompozice záběru a vytvoří jednoduchou keyframe animaci. Společně vytvoří plynulý průlet kamery kolem modelu domečku z Lekce 1 a poté samostatně animují jednu ze tří scén na výběr.
+> **Cíl:** Studenti se naučí správně umístit a nastavit kameru, porozumí základním pravidlům kompozice záběru a vytvoří jednoduchou keyframe animaci. Společně vytvoří plynulý průlet kamery kolem modelu domečku z [[01_Zaklady_modelovani|Lekce 1]] a poté samostatně animují jednu ze tří scén na výběr.
+
+### Navigace mezi lekcemi
+| Předchozí                       | Další              |
+| ------------------------------- | ------------------ |
+| [[02_Nastaveni_svetel_a_sceny]] | [[04_Renderovani]] |
+
+**Všechny lekce:** [[01_Zaklady_modelovani|1]] · [[02_Nastaveni_svetel_a_sceny|2]] · [[03_Kamera_a_animace|3]] · [[04_Renderovani|4]] · [[05_Import_povrchu_a_scen|5]] · [[06_Dalsi_funkce_a_vychytavky|6]]
 
 ---
 
@@ -497,5 +504,5 @@ Hloubka ostrosti vytváří efekt **rozostření** (bokeh) – objekt v popřed�
 
 ---
 
-> **Příští lekce:** Lekce 4 – Materiály a textury. Přidáme domečku barvy, textury dřeva a střechy, a naučíme se základy shadingu v Blenderu!
+> **Příští lekce:** [[04_Renderovani|Lekce 4 – Renderování]]. Naučíme se rozdíl mezi Eevee a Cycles, nastavení renderu a uložení výstupů!
 

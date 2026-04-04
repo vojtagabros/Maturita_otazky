@@ -3,6 +3,13 @@
 > **Délka lekce:** cca 90–120 minut
 > **Cíl:** Studenti se naučí orientaci v Blenderu, základní transformace, Edit Mode a klíčové modelovací nástroje. Společně vytvoří 3D model domečku a poté samostatně jeden ze tří objektů na výběr.
 
+### Navigace mezi lekcemi
+| Další                           |
+| ------------------------------- |
+| [[02_Nastaveni_svetel_a_sceny]] |
+
+**Všechny lekce:** [[01_Zaklady_modelovani|1]] · [[02_Nastaveni_svetel_a_sceny|2]] · [[03_Kamera_a_animace|3]] · [[04_Renderovani|4]] · [[05_Import_povrchu_a_scen|5]] · [[06_Dalsi_funkce_a_vychytavky|6]]
+
 ---
 
 ## Přehled lekce
@@ -24,7 +31,7 @@
 - **Viewport** – hlavní pracovní prostor uprostřed
 - **Outliner** (vpravo nahoře) – hierarchie objektů ve scéně
 - **Properties panel** (vpravo) – vlastnosti objektu, modifikátory, materiály
-- **Timeline** (dole) – zatím jen zmínit, využijeme v lekci 3
+- **Timeline** (dole) – zatím jen zmínit, využijeme v [[03_Kamera_a_animace|lekci 3]]
 - **Toolbar** (vlevo) – nástroje, dají se vyvolat i klávesami
 
 ### Navigace ve viewportu
@@ -73,11 +80,11 @@
 ## Fáze 3 – Výběr a základní modelovací nástroje (15 min)
 
 ### Režimy výběru v Edit Mode
-| Režim | Klávesa | Ikona | Vybírá |
-|-------|---------|-------|--------|
-| Vertex | 1 | Bod | Jednotlivé body |
-| Edge | 2 | Čára | Hrany |
-| Face | 3 | Čtverec | Plochy |
+| Režim  | Ikona   | Vybírá          |
+| ------ | ------- | --------------- |
+| Vertex | Bod     | Jednotlivé body |
+| Edge   | Čára    | Hrany           |
+| Face   | Čtverec | Plochy          |
 
 ### Způsoby výběru
 - **Klik** – vybere jeden prvek
@@ -91,7 +98,6 @@
 #### Extrude (Vysunutí) – klávesa E
 - Vysune vybranou plochu/hranu/vertex a vytvoří novou geometrii
 - **E** = extrude, pak pohyb myší
-- **Alt + E** → Extrude Along Normals = vysunutí rovnoměrně podle normál
 - **Extrude Individual Faces** = každá vybraná plocha se vysune samostatně
 
 ---
@@ -341,5 +347,5 @@
 
 ---
 
-> **Příští lekce:** Lekce 2 – Nastavení světel a scény. Vezmeme si hotové modely z dnešní lekce a nasvítíme je!
+> **Příští lekce:** [[02_Nastaveni_svetel_a_sceny|Lekce 2 – Nastavení světel a scény]]. Vezmeme si hotové modely z dnešní lekce a nasvítíme je!
 

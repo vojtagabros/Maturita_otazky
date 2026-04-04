@@ -1,7 +1,14 @@
 # Lekce 6 – Další funkce a vychytávky (závěrečná lekce)
 
 > **Délka lekce:** cca 60–90 minut
-> **Cíl:** Studenti se seznámí s užitečnými addons, naučí se exportovat modely do různých formátů, osvojí si pokročilé zkratky pro rychlejší práci a získají přehled o zdrojích pro další učení. V závěrečném projektu využijí vše, co se naučili v lekcích 1–6.
+> **Cíl:** Studenti se seznámí s užitečnými addons, naučí se exportovat modely do různých formátů, osvojí si pokročilé zkratky pro rychlejší práci a získají přehled o zdrojích pro další učení. V závěrečném projektu využijí vše, co se naučili v lekcích 1 - 5.
+
+### Navigace mezi lekcemi
+| Předchozí                    |
+| ---------------------------- |
+| [[05_Import_povrchu_a_scen]] |
+
+**Všechny lekce:** [[01_Zaklady_modelovani|1]] · [[02_Nastaveni_svetel_a_sceny|2]] · [[03_Kamera_a_animace|3]] · [[04_Renderovani|4]] · [[05_Import_povrchu_a_scen|5]] · [[06_Dalsi_funkce_a_vychytavky|6]]
 
 ---
 

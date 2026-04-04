@@ -3,6 +3,13 @@
 > **Délka lekce:** cca 60–90 minut
 > **Cíl:** Studenti pochopí rozdíl mezi render enginy Eevee a Cycles, naučí se základní nastavení renderu (rozlišení, sampling, denoise), vyrenderují obrázek i krátkou animaci a uloží výstupy ve správném formátu.
 
+### Navigace mezi lekcemi
+| Předchozí               | Další                        |
+| ----------------------- | ---------------------------- |
+| [[03_Kamera_a_animace]] | [[05_Import_povrchu_a_scen]] |
+
+**Všechny lekce:** [[01_Zaklady_modelovani|1]] · [[02_Nastaveni_svetel_a_sceny|2]] · [[03_Kamera_a_animace|3]] · [[04_Renderovani|4]] · [[05_Import_povrchu_a_scen|5]] · [[06_Dalsi_funkce_a_vychytavky|6]]
+
 ---
 
 ## Přehled lekce
@@ -554,5 +561,5 @@ Pokud zbyde čas, můžete ukázat:
 
 ---
 
-> **Příští lekce:** Lekce 5 – Pokročilé techniky. Podíváme se na sculpting, particle systémy a pokročilé modifikátory pro tvorbu složitějších scén!
+> **Příští lekce:** [[05_Import_povrchu_a_scen|Lekce 5 – Import povrchů a scén]]. Naučíme se stahovat a aplikovat PBR textury, importovat modely a pracovat se Shader Editorem!
 

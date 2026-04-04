@@ -1,7 +1,14 @@
 # Lekce 2 – Nastavení světel a scény
 
 > **Délka lekce:** cca 60–90 minut
-> **Cíl:** Studenti se naučí pracovat se světly v Blenderu, porozumí typům světel a jejich vlastnostem, nastaví tříbodové osvětlení, přidají HDRI prostředí a připraví kompletní scénu. Společně nasvítí model domečku z lekce 1 a poté samostatně vytvoří jednu ze tří světelných scén na výběr.
+> **Cíl:** Studenti se naučí pracovat se světly v Blenderu, porozumí typům světel a jejich vlastnostem, nastaví tříbodové osvětlení, přidají HDRI prostředí a připraví kompletní scénu. Společně nasvítí model domečku z [[01_Zaklady_modelovani|lekce 1]] a poté samostatně vytvoří jednu ze tří světelných scén na výběr.
+
+### Navigace mezi lekcemi
+| Předchozí                 | Další                           |
+| ------------------------- | ------------------------------- |
+| [[01_Zaklady_modelovani]] | [[02_Nastaveni_svetel_a_sceny]] |
+
+**Všechny lekce:** [[01_Zaklady_modelovani|1]] · [[02_Nastaveni_svetel_a_sceny|2]] · [[03_Kamera_a_animace|3]] · [[04_Renderovani|4]] · [[05_Import_povrchu_a_scen|5]] · [[06_Dalsi_funkce_a_vychytavky|6]]
 
 ---
 
@@ -263,7 +270,7 @@ Tříbodové osvětlení je základ profesionálního nasvícení ve fotografii,
 
 | Objekt | Doporučený scale |
 |--------|-----------------|
-| Domeček (z lekce 1) | cca 4–6 m výška |
+| Domeček (z [[01_Zaklady_modelovani|lekce 1]]) | cca 4–6 m výška |
 | Hrnek | cca 0.1 m (10 cm) |
 | Stůl | cca 0.75 m výška |
 | Podlaha | 20–50 m |
@@ -277,7 +284,7 @@ Tříbodové osvětlení je základ profesionálního nasvícení ve fotografii,
 > **Poznámka pro učitele:** Studenti otevřou svůj soubor domečku z lekce 1. Pokud ho někdo nemá, připravte si předem základní model domečku ke stažení. Budujte krok po kroku, po každém kroku nechte studenty dostat se na stejnou úroveň.
 
 ### Krok 1 – Příprava scény
-1. Otevřete soubor s domečkem z lekce 1 (**File → Open**)
+1. Otevřete soubor s domečkem z [[01_Zaklady_modelovani|lekce 1]] (**File → Open**)
 2. Ověřte scale domečku – měl by mít cca 4–6 metrů na výšku
 3. Pokud je scale špatně: vyberte domeček → **Ctrl + A → Scale**
 4. Smažte výchozí světlo (**klik na světlo → X → Delete**)
@@ -528,5 +535,5 @@ Tříbodové osvětlení je základ profesionálního nasvícení ve fotografii,
 
 ---
 
-> **Příští lekce:** Lekce 3 – Materiály a textury. Naučíme se přidávat barvy, textury a materiály na naše modely, pracovat se Shader Editorem a vytvářet realistické povrchy.
+> **Příští lekce:** [[03_Kamera_a_animace|Lekce 3 – Kamera a animace]]. Naučíme se umístit kameru, nastavit kompozici a vytvořit jednoduchou animaci!
 

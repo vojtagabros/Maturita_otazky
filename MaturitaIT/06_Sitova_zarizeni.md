@@ -106,15 +106,15 @@ Viz [[07_Zabezpeceni_siti]] – filtruje síťový provoz.
 
 ### Standardy Wi-Fi (IEEE 802.11)
 
-| Standard | Rok | Frekv. pásmo | Max. rychlost | Název Wi-Fi |
-|---|---|---|---|---|
-| 802.11b | 1999 | 2,4 GHz | 11 Mbit/s | Wi-Fi 1 |
-| 802.11a | 1999 | 5 GHz | 54 Mbit/s | Wi-Fi 2 |
-| 802.11g | 2003 | 2,4 GHz | 54 Mbit/s | Wi-Fi 3 |
-| 802.11n | 2009 | 2,4/5 GHz | 600 Mbit/s | Wi-Fi 4 |
-| 802.11ac | 2014 | 5 GHz | 6 933 Mbit/s | Wi-Fi 5 |
-| 802.11ax | 2019 | 2,4/5/6 GHz | 9 608 Mbit/s | Wi-Fi 6/6E |
-| 802.11be | 2024 | 2,4/5/6 GHz | 46 120 Mbit/s | Wi-Fi 7 |
+| Standard | Rok  | Frekv. pásmo | Max. rychlost | Název Wi-Fi |
+| -------- | ---- | ------------ | ------------- | ----------- |
+| 802.11b  | 1999 | 2,4 GHz      | 11 Mbit/s     | Wi-Fi 1     |
+| 802.11a  | 1999 | 5 GHz        | 54 Mbit/s     | Wi-Fi 2     |
+| 802.11g  | 2003 | 2,4 GHz      | 54 Mbit/s     | Wi-Fi 3     |
+| 802.11n  | 2009 | 2,4/5 GHz    | 600 Mbit/s    | Wi-Fi 4     |
+| 802.11ac | 2014 | 5 GHz        | 6 933 Mbit/s  | Wi-Fi 5     |
+| 802.11ax | 2019 | 2,4/5/6 GHz  | 9 608 Mbit/s  | Wi-Fi 6/6E  |
+| 802.11be | 2024 | 2,4/5/6 GHz  | 46 120 Mbit/s | Wi-Fi 7     |
 
 **Klíčové techniky zvyšování výkonu:**
 - **MIMO (Multiple Input Multiple Output):** více antén pro paralelní přenos.
