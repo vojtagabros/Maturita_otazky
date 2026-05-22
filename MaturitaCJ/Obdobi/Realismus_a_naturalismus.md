@@ -1,4 +1,3 @@
-# Realismus a naturalismus
 #obdobi
 
 ## Časové vymezení

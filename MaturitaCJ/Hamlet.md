@@ -6,6 +6,7 @@ tags: [maturita, literatura, renesance, drama, tragédie]
 **Autor:** William Shakespeare
 **Rok vzniku:** cca 1600–1601 (premiéra pravděpodobně 1603)
 **Literární období:** [[Obdobi/Renesance_a_humanismus]]
+https://www.youtube.com/watch?v=StDk06IKH2U
 
 ---
 

@@ -7,6 +7,10 @@ tags: [maturita, literatura, mezivalecna, drama, sci-fi, ceska-literatura]
 **Rok premiéry:** 1921 (Národní divadlo v Praze, 25. ledna 1921)
 **Rok vydání:** 1920
 **Literární období:** [[Obdobi/Mezivalecna_literatura]]
+https://www.youtube.com/watch?v=Pn3SJIpEbSc
+https://www.youtube.com/watch?v=y9gwXi-tPpI
+https://www.youtube.com/watch?v=cq48yKjJaUw
+
 
 ---
 
@@ -147,7 +151,7 @@ Roboti zjistí, že bez receptu se nemohou množit a vyhynou. Prosí Alquista, a
 ---
 
 ## Viz také
-- [[Premena]] – jiné téma odcizení a dehumanizace
+- [[Promena]] – jiné téma odcizení a dehumanizace
 - [[1984]] – dystopická tradice
 - [[Obdobi/Mezivalecna_literatura]]
 - [[SouvisejiciAutori/Jaroslav_Hasek|Jaroslav Hašek]] – klíčový současník české meziválečné literatury

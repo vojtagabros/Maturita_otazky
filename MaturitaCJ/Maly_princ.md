@@ -7,6 +7,7 @@ tags: [maturita, literatura, filozofie, epika, pohadka]
 **Původní název:** *Le Petit Prince*
 **Rok vydání:** 1943 (New York, v angličtině i francouzštině současně)
 **Literární období:** [[Obdobi/Mezivalecna_literatura]] (s filosofickými přesahy)
+https://www.youtube.com/watch?v=Rv2bfXHpdQI
 
 ---
 

@@ -50,25 +50,25 @@ Topologie popisuje fyzické nebo logické uspořádání uzlů v síti.
 ### Model ISO/OSI (7 vrstev)
 Referenční model pro síťovou komunikaci (ISO, 1984). Každá vrstva zajišťuje specifické funkce a komunikuje pouze se sousedními vrstvami.
 
-| Vrstva | Název | Funkce | Příklady protokolů/zařízení |
-|---|---|---|---|
-| 7 | **Aplikační** | Rozhraní pro aplikace | HTTP, FTP, SMTP, DNS, SSH |
-| 6 | **Prezentační** | Kódování, šifrování, komprese | SSL/TLS, JPEG, ASCII, UTF-8 |
-| 5 | **Relační** | Správa relací (session) | NetBIOS, RPC, SQL |
-| 4 | **Transportní** | End-to-end přenos, řízení toku | TCP, UDP |
-| 3 | **Síťová** | Logická adresace, směrování | IP, ICMP, RIP, OSPF – Router |
-| 2 | **Linková** | Fyzická adresace (MAC), přístup na médium | Ethernet, Wi-Fi, Switch |
-| 1 | **Fyzická** | Přenos bitů přes médium | Kabely, optika, Radio |
+| Vrstva | Název           | Funkce                                    | Příklady protokolů/zařízení  |
+| ------ | --------------- | ----------------------------------------- | ---------------------------- |
+| 7      | **Aplikační**   | Rozhraní pro aplikace                     | HTTP, FTP, SMTP, DNS, SSH    |
+| 6      | **Prezentační** | Kódování, šifrování, komprese             | SSL/TLS, JPEG, ASCII, UTF-8  |
+| 5      | **Relační**     | Správa relací (session)                   | NetBIOS, RPC, SQL            |
+| 4      | **Transportní** | End-to-end přenos, řízení toku            | TCP, UDP                     |
+| 3      | **Síťová**      | Logická adresace, směrování               | IP, ICMP, RIP, OSPF – Router |
+| 2      | **Linková**     | Fyzická adresace (MAC), přístup na médium | Ethernet, Wi-Fi, Switch      |
+| 1      | **Fyzická**     | Přenos bitů přes médium                   | Kabely, optika, Radio        |
 
 ### Model TCP/IP (4 vrstvy)
 Praktický model používaný pro internet (DARPA, 70. léta). Odpovídá implementaci internetu.
 
-| TCP/IP vrstva | Odpovídá OSI vrstvám | Protokoly |
-|---|---|---|
-| **Aplikační** | 5–7 | HTTP, HTTPS, FTP, SSH, DNS, DHCP, SMTP |
-| **Transportní** | 4 | TCP, UDP |
-| **Síťová (Internet)** | 3 | IPv4, IPv6, ICMP, ARP |
-| **Síťového přístupu** | 1–2 | Ethernet, Wi-Fi (802.11), ARP |
+| TCP/IP vrstva         | Odpovídá OSI vrstvám | Protokoly                              |
+| --------------------- | -------------------- | -------------------------------------- |
+| **Aplikační**         | 5–7                  | HTTP, HTTPS, FTP, SSH, DNS, DHCP, SMTP |
+| **Transportní**       | 4                    | TCP, UDP                               |
+| **Síťová (Internet)** | 3                    | IPv4, IPv6, ICMP, ARP                  |
+| **Síťového přístupu** | 1–2                  | Ethernet, Wi-Fi (802.11), ARP          |
 
 ### Klíčové protokoly
 

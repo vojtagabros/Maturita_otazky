@@ -7,6 +7,7 @@ tags: [maturita, literatura, fantasy, epika, roman]
 **Původní název:** *The Hobbit, or There and Back Again*
 **Rok vydání:** 1937
 **Literární období:** [[Obdobi/Fantasy]] | [[Obdobi/Mezivalecna_literatura]]
+https://www.youtube.com/watch?v=Fs_183soJtk 
 
 ---
 

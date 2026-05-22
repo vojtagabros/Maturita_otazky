@@ -31,7 +31,7 @@ Havel navazuje na tradici **absurdního divadla** (Ionesco, Beckett), ale jeho a
 
 ## Souvislosti
 - **[[Vysetrovani_ztraty_tridni_knihy|Zdeněk Svěrák a Ladislav Smoljak]]** – sdílejí prvky absurdního humoru v české tradici; Divadlo Járy Cimrmana a Havlovo Divadlo Na zábradlí jsou dvě klíčová česká divadla 60.–80. let
-- **[[Premena|Franz Kafka]]** – Havlova absurdita má kafkovské kořeny; byrokracie jako absurdní labyrint
+- **[[Promena|Franz Kafka]]** – Havlova absurdita má kafkovské kořeny; byrokracie jako absurdní labyrint
 - **[[1984|George Orwell]]** – oba zkoumají totalitní systémy; Havel zevnitř, Orwell zvnějšku
 - **[[SouvisejiciAutori/Bohumil_Hrabal|Bohumil Hrabal]]** a **[[SouvisejiciAutori/Josef_Skvorecky|Josef Škvorecký]]** – klíčoví čeští současníci
 - **[[SouvisejiciAutori/Milan_Kundera|Milan Kundera]]** – oba zkoumají českou zkušenost s totalitou, ale odlišně

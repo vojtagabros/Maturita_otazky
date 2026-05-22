@@ -1,4 +1,4 @@
-# 13. Virtuální, Rozšířená a Smíšená realita
+ # 13. Virtuální, Rozšířená a Smíšená realita
 
 > Souvisí s: [[12_Problematika_3D]] | [[01_Architektura_PC]] | [[20_Umela_inteligence]]
 

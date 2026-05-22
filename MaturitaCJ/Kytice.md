@@ -7,6 +7,7 @@ tags: [maturita, literatura, romantismus, narodni-obrozeni, lyrika, balada]
 **Plný název:** *Kytice z pověstí národních*
 **Rok vydání:** 1853 (první vydání, 12 básní); 1861 (rozšířené, 13 básní – přidána *Věštkyně*)
 **Literární období:** [[Obdobi/Romantismus]] + [[Obdobi/Narodni_obrozeni]]
+https://www.youtube.com/watch?v=UDEQsXg5g-Y
 
 ---
 

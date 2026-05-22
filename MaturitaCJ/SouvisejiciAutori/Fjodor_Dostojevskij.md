@@ -30,7 +30,7 @@ Dostojevskij je považován za **zakladatele psychologického románu** a předc
 
 ## Souvislosti
 - **[[Pes_baskervillsky|Arthur Conan Doyle]]** – detektivní prvky v *Zločinu a trestu*; Dostojevskij ovlivnil psychologický aspekt detektivky
-- **[[Premena|Franz Kafka]]** – Kafka přímo navazuje na Dostojevského existenciální úzkost a absurditu
+- **[[Promena|Franz Kafka]]** – Kafka přímo navazuje na Dostojevského existenciální úzkost a absurditu
 - **[[Pycha_a_predsudek|Jane Austen]]** – oba patří k [[Obdobi/Realismus_a_naturalismus|realismu]], ale zcela odlišnému: Austen je společenský realismus, Dostojevskij psychologický
 - **[[Marysa|Alois a Vilém Mrštík]]** – Vilém Mrštík překládal z ruštiny a ruský realismus ho přímo ovlivnil
 - **[[SouvisejiciAutori/Alexandr_Puskin|Alexandr Puškin]]** – Dostojevského přímý předchůdce v ruské literatuře

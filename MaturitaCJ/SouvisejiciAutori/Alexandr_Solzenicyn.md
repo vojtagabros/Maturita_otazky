@@ -29,6 +29,6 @@ Solženicyn odhalil světu **realitu sovětského gulagu**. Jeho dílo je zárov
 
 ## Souvislosti
 - **[[1984|George Orwell]]** – oba zobrazují totalitní systém; Orwell fiktivně/profeticky, Solženicyn dokumentárně/autobiograficky. Solženicynův gulag je reálná verze Orwellova Ministerstva lásky.
-- **[[Premena|Franz Kafka]]** – kafkovská absurdita byrokracie se v Solženicynově díle stává doslovnou realitou
+- **[[Promena|Franz Kafka]]** – kafkovská absurdita byrokracie se v Solženicynově díle stává doslovnou realitou
 - **[[SouvisejiciAutori/Erich_Maria_Remarque|Erich Maria Remarque]]** – oba zachycují člověka v extrémních podmínkách
 - **[[SouvisejiciAutori/Vaclav_Havel|Václav Havel]]** – oba disidenti, kteří spojili literaturu s bojem proti totalitě

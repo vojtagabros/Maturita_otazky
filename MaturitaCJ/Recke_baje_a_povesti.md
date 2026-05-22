@@ -144,3 +144,9 @@ Petišk byl systematickým retellererem světových mytologií. Vedle řecké my
 - [[SouvisejiciAutori/Homer|Homér]] – autor Íliady a Odysseie
 - [[SouvisejiciAutori/Alois_Jirasek|Alois Jirásek]] – Staré pověsti české jako český ekvivalent
 - [[Dekameron]] – renesanční navázání na antickou tradici
+
+
+Recke baje: 
+- Prometheus - https://www.youtube.com/watch?v=U_u91SjrEOE
+- Orfeus - https://www.youtube.com/watch?v=RhaepLsP5eg
+- Oidipus - https://www.youtube.com/watch?v=VrC5wzIxEis

@@ -30,7 +30,7 @@ Kundera je mistrem **románového myšlení** – jeho romány nejsou jen příb
 
 ## Souvislosti
 - **[[SouvisejiciAutori/Bohumil_Hrabal|Bohumil Hrabal]]** a **[[SouvisejiciAutori/Josef_Skvorecky|Josef Škvorecký]]** – trojice Hrabal–Kundera–Škvorecký je základem české poválečné prózy
-- **[[Premena|Franz Kafka]]** – Kundera o Kafkovi rozsáhle psal; považoval ho za klíčového pro pochopení střední Evropy
+- **[[Promena|Franz Kafka]]** – Kundera o Kafkovi rozsáhle psal; považoval ho za klíčového pro pochopení střední Evropy
 - **[[1984|George Orwell]]** – oba zkoumají totalitní systémy; Kundera ale odmítá černobílý pohled
 - **[[Norske_drevo|Haruki Murakami]]** – oba jsou postmoderní romanopisci zkoumající lásku a paměť
 - **[[SouvisejiciAutori/Vaclav_Havel|Václav Havel]]** – oba zkoumají českou zkušenost s totalitou, ale z různých pozic (Kundera romanopisec, Havel dramatik a aktivista)

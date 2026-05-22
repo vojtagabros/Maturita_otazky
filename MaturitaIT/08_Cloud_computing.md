@@ -25,12 +25,12 @@
 
 ### Servisní modely
 
-| Model | Co poskytuje | Zákazník spravuje | Příklady |
-|---|---|---|---|
-| **IaaS** (Infrastructure as a Service) | Virtuální stroje, úložiště, sítě | OS, middleware, aplikace | AWS EC2, Azure VM, GCP Compute Engine |
-| **PaaS** (Platform as a Service) | OS + middleware + runtime | Aplikace, data | Heroku, Azure App Service, Google App Engine |
-| **SaaS** (Software as a Service) | Kompletní aplikace | Pouze nastavení | Gmail, Microsoft 365, Salesforce, Dropbox |
-| **FaaS/Serverless** | Spuštění funkcí na event | Pouze kód funkcí | AWS Lambda, Azure Functions |
+| Model                                  | Co poskytuje                     | Zákazník spravuje        | Příklady                                     |
+| -------------------------------------- | -------------------------------- | ------------------------ | -------------------------------------------- |
+| **IaaS** (Infrastructure as a Service) | Virtuální stroje, úložiště, sítě | OS, middleware, aplikace | AWS EC2, Azure VM, GCP Compute Engine        |
+| **PaaS** (Platform as a Service)       | OS + middleware + runtime        | Aplikace, data           | Heroku, Azure App Service, Google App Engine |
+| **SaaS** (Software as a Service)       | Kompletní aplikace               | Pouze nastavení          | Gmail, Microsoft 365, Salesforce, Dropbox    |
+| **FaaS/Serverless**                    | Spuštění funkcí na event         | Pouze kód funkcí         | AWS Lambda, Azure Functions                  |
 
 ### Právní normy
 

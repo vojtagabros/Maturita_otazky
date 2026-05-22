@@ -6,6 +6,7 @@ tags: [maturita, literatura, realismus, naturalismus, drama, ceska-literatura]
 **Autoři:** Alois Mrštík a Vilém Mrštík
 **Rok vzniku:** 1894 (premiéra v Národním divadle 1894)
 **Literární období:** [[Obdobi/Realismus_a_naturalismus]]
+https://www.youtube.com/watch?v=qbLy63T7kS8
 
 ---
 

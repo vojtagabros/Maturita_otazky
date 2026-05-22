@@ -7,6 +7,8 @@ tags: [maturita, literatura, modernismus, expresionismus, epika, novela, ceska-l
 **Původní název:** *Die Verwandlung*
 **Rok vydání:** 1915 (v časopise); 1915 (knižně)
 **Literární období:** [[Obdobi/Modernismus]] (expresionismus, existencialismus)
+https://www.youtube.com/watch?v=X3DQpH8ZKbM
+https://www.youtube.com/watch?v=JvWCJIyOaAw
 
 ---
 

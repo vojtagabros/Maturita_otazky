@@ -67,7 +67,7 @@
 ## b) Flash paměti a cloudová úložiště
 
 ### Flash paměti (mimo SSD)
-- Nevolatilní paměť – data zůstávají i bez napájení.
+- **Nevolatilní paměť – data zůstávají i bez napájení.**
 - **USB flash disky:** přenosná úložiště, kapacita 4 GB – 2 TB, rozhraní USB 2.0/3.0/3.2/USB-C.
 - **Paměťové karty:** SD (Secure Digital), microSD, CompactFlash – pro fotoaparáty, drony, kamery, SBC (Raspberry Pi).
   - Rychlostní třídy: Class 4/10, UHS-I/II, Video Speed Class (V30, V60, V90).
@@ -127,6 +127,7 @@ Data uložena na **vzdálených serverech** přístupná přes internet. Funguje
 - Alternativy k Moorovu zákonu: 3D čipování (chiplets – AMD), nové materiály (grafen, GaN), specializované čipy (ASIC), kvantové počítače.
 
 ### Kvantové počítače
+https://www.youtube.com/watch?v=-UlxHPIEVqA&list=PLOYRlicwLG3T6ukECI8aJFVESYJo71N-t
 Využívají principy kvantové mechaniky místo klasické logiky.
 
 **Základní pojmy:**

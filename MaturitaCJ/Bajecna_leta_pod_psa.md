@@ -6,6 +6,7 @@ tags: [maturita, literatura, postmodernismus, epika, roman, ceska-literatura]
 **Autor:** Michal Viewegh
 **Rok vydání:** 1992
 **Literární období:** [[Obdobi/Postmodernismus]]
+www.youtube.com/watch?v=MaajoI6ISu8
 
 ---
 

@@ -130,3 +130,11 @@ Dekameron je Boccacciovo vrcholné dílo a jedinou jeho prací, která přežila
 - [[Obdobi/Renesance_a_humanismus]]
 - [[SouvisejiciAutori/Homer|Homér]] – antická tradice, na kterou renesance navazuje
 - [[Recke_baje_a_povesti]] – antická mytologie jako základ
+
+
+
+Dekameron:
+
+3. den - pribeh druhy - https://www.youtube.com/watch?v=VXAv1v0rTbI
+4. den - pribeh prvni - https://www.youtube.com/watch?v=IRgAUgVZNxc
+5. den - pribeh osmy

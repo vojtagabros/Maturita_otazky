@@ -7,7 +7,7 @@ tags: [maturita, literatura, romantismus, epika, povidky, horor]
 **Originální název:** *The Pit and the Pendulum* (1842) a další povídky
 **Vydání:** Povídky vycházely v různých letech 1830–1849, sbírky vycházely postupně
 **Literární období:** [[Obdobi/Romantismus]] (temný, gotický romantismus)
-
+https://www.youtube.com/watch?v=k5eV0T9vcXA
 ---
 
 > ⚠️ **Specifická situace:** "Jáma a kyvadlo a jiné povídky" je sbírkový titul používaný v různých českých vydáních. Obsahuje jak hororové povídky (*Jáma a kyvadlo*, *Zánik domu Usherů*, *Černý kocour*), tak **první detektivní povídky v dějinách** (*Vraždy v ulici Morgue*, *Odcizený dopis*, *Zlatý brouk*). Na maturitě je dobré mít přehled o obou kategoriích.

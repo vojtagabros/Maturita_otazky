@@ -35,13 +35,13 @@ Navržena Johnem von Neumannem. Klíčové vlastnosti:
 
 ### CISC vs. RISC
 
-| Vlastnost | CISC | RISC |
-|---|---|---|
-| Počet instrukcí | Velký (stovky) | Malý (desítky) |
-| Délka instrukce | Variabilní | Fixní (32 bit) |
-| Příklady | Intel x86, x86-64 | ARM, RISC-V, MIPS |
-| Filosofie | Komplexní instrukce, méně kódu | Jednoduché instrukce, rychlejší pipeline |
-| Použití | Desktop, server | Mobily, embedded, ARM servery |
+| Vlastnost       | CISC                           | RISC                                     |
+| --------------- | ------------------------------ | ---------------------------------------- |
+| Počet instrukcí | Velký (stovky)                 | Malý (desítky)                           |
+| Délka instrukce | Variabilní                     | Fixní (32 bit)                           |
+| Příklady        | Intel x86, x86-64              | ARM, RISC-V, MIPS                        |
+| Filosofie       | Komplexní instrukce, méně kódu | Jednoduché instrukce, rychlejší pipeline |
+| Použití         | Desktop, server                | Mobily, embedded, ARM servery            |
 
 ARM (RISC) se dnes prosazuje i do desktopů a serverů díky energetické efektivitě – Apple M-series, AWS Graviton.
 

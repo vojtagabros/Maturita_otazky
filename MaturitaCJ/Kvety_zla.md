@@ -7,6 +7,7 @@ tags: [maturita, literatura, symbolismus, lyrika, poezie]
 **Původní název:** *Les Fleurs du Mal*
 **Rok vydání:** 1857 (cenzurovaná verze), 1861 (rozšířená), 1868 (posmrtná úplná)
 **Literární období:** [[Obdobi/Symbolismus_a_dekadence]]
+https://www.youtube.com/watch?v=TEk2095ZxD8&t=602s
 
 ---
 

@@ -57,7 +57,7 @@ Modernismus zásadně proměnil literaturu 20. stol. Proud vědomí ovlivnil psy
 ---
 
 ## Díla v maturitním seznamu
-- [[Premena|Proměna]] – Franz Kafka
+- [[Promena|Proměna]] – Franz Kafka
 
 ## Viz také
 - [[Obdobi/Mezivalecna_literatura|Meziválečná literatura]] – souběžné české a světové meziválečné literární hnutí

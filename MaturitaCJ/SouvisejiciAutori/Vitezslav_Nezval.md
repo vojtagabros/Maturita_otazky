@@ -30,4 +30,4 @@ Nezval je klíčová postava české avantgardy. Poetismus a surrealismus, kter�
 - **[[Kvety_zla|Charles Baudelaire]]** – Nezval navazoval na francouzský symbolismus; Baudelaire je předchůdce moderní avantgardy
 - **[[SouvisejiciAutori/Jaroslav_Seifert|Jaroslav Seifert]]** – spoluzakladatel poetismu; blízcí přátelé v 20. letech, později se jejich cesty rozešly
 - **[[RUR|Karel Čapek]]** – oba patří k meziválečné české kultuře, ale stojí na opačných pólech: Čapek pragmatik, Nezval avantgardista
-- **[[Premena|Franz Kafka]]** – surrealisté (včetně Nezvala) Kafku uctívali jako předchůdce surrealismu
+- **[[Promena|Franz Kafka]]** – surrealisté (včetně Nezvala) Kafku uctívali jako předchůdce surrealismu

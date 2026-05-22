@@ -59,7 +59,7 @@
 - Definoval povinnosti pro provozovatele kritické informační infrastruktury (KII) a informační systémy kritické infrastruktury (ISZKI).
 - Orgánem dohledu: **NÚKIB (Národní úřad pro kybernetickou a informační bezpečnost)** – zřízen 2017.
 
-**Zákon č. 205/2025 Sb. (nový zákon o kybernetické bezpečnosti):**
+**Zákon č. 264/2025 Sb. (nový zákon o kybernetické bezpečnosti):**
 - Transponuje směrnici **NIS2** do českého práva (platnost od 2025).
 - Rozšiřuje okruh povinných subjektů (viz NIS2 sekce c).
 - Zavádí přísnější povinnosti a vyšší sankce.
